@@ -1,0 +1,10 @@
+{
+"type":"FeatureCollection",
+"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"features":[
+{"type":"Feature","properties":{"id":"1","e":"NORTE","pt":"Hito en la confluencia de los ríos Grande de San Juan y Mojinete","p":"Jujuy","lg":"66ª 13' 10'' O","lt":"21ª 46' 50\" S"},"geometry":{"type":"Point","coordinates":[-66.22,-21.78]}},
+{"type":"Feature","properties":{"id":"2","e":"SUR","pt":"Cabo San Pío","p":"Tierra del Fuego, Antártida e Islas del Atlántico Sur","lg":"66ª 31' 00'' O","lt":"55ª 03' 00'' S"},"geometry":{"type":"Point","coordinates":[-66.52,-55.05]}},
+{"type":"Feature","properties":{"id":"3","e":"OESTE","pt":"Punto en el Parque Nacional Los Glaciares","p":"Santa Cruz","lg":"73ª 34' 00'' O","lt":"50ª 01' 00'' S"},"geometry":{"type":"Point","coordinates":[-73.57,-50.02]}},
+{"type":"Feature","properties":{"id":"4","e":"ESTE","pt":"Punto al noreste de Bernardo de Irigoyen","p":"Misiones","lg":"53ª 38' 52'' O","lt":"26 15' 15'' S"},"geometry":{"type":"Point","coordinates":[-53.65,-26.25]}}
+]
+}

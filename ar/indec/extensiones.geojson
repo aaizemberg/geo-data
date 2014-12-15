@@ -1,0 +1,8 @@
+{
+"type":"FeatureCollection",
+"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"features":[
+{"type":"Feature","properties":{"id":"1","d":"Norte-Sur","e":"Desde la confluencia de los ríos Grande de San Juan y Mojinete hasta el Cabo San Pío","km":3694},"geometry":{"type":"MultiLineString","coordinates":[[[-66.22,-21.78],[-66.52,-55.05]]]}},
+{"type":"Feature","properties":{"id":"2","d":"Oeste-Este","e":"Distancia sobre el paralelo 27ª 31' S (totalmente en territorio argentino)","km":1423},"geometry":{"type":"MultiLineString","coordinates":[[[-54.84,-27.6],[-69.05,-27.62]]]}}
+]
+}

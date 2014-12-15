@@ -1,0 +1,19 @@
+{
+"type":"FeatureCollection",
+"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"features":[
+{"type":"Feature","properties":{"id":"1","n":"Belgrano II","t":"Permanente","u":"Nunatak Bertrab (bahía Vashel), costa Confín (Tierra de Coats)","i":"5 de febrero de 1979","lt":"-77º 51'","lg":"-34º 33'"},"geometry":{"type":"Point","coordinates":[-34.55,-77.85]}},
+{"type":"Feature","properties":{"id":"2","n":"Esperanza","t":"Permanente","u":"Punta Foca (caletas Choza y Águila), bahía Esperanza (península Trinidad), estrecho Antarctic","i":"17 de diciembre de 1952","lt":"-63º 24´","lg":"-56º 59'"},"geometry":{"type":"Point","coordinates":[-56.9833,-63.4]}},
+{"type":"Feature","properties":{"id":"3","n":"Carlini (ex Jubany)","t":"Permanente","u":"Caleta Potter (bahía Guardia Nacional), isla 25 de Mayo (islas Shetland del Sur)","i":"21 de noviembre de 1953","lt":"-62º 14´","lg":"-58º 40'"},"geometry":{"type":"Point","coordinates":[-58.6667,-62.2333]}},
+{"type":"Feature","properties":{"id":"4","n":"Marambio","t":"Permanente","u":"Noreste de la isla Marambio (mar de Weddell)","i":"29 de octubre de 1969","lt":"-64º 14´","lg":"-56º 38'"},"geometry":{"type":"Point","coordinates":[-56.6333,-64.2333]}},
+{"type":"Feature","properties":{"id":"5","n":"Orcadas","t":"Permanente","u":"Istmo de la isla Laurie (caletas Uruguay y Scotia, bahías Uruguay y Scotia respectivamente), islas Orcadas del Sur","i":"22 de febrero de 1904","lt":"-60º 44'","lg":"-44º 44'"},"geometry":{"type":"Point","coordinates":[-44.7333,-60.7333]}},
+{"type":"Feature","properties":{"id":"6","n":"San Martín","t":"Permanente","u":"Islote Barry islote San Martín (caleta Sanaviron, paso Mottet), islotes Debenham (bahía Margarita, costa Fallieres)","i":"21 de marzo de 1951","lt":"-68º 08'","lg":"-67º 06'"},"geometry":{"type":"Point","coordinates":[-67.1,-68.1333]}},
+{"type":"Feature","properties":{"id":"7","n":"Brown","t":"Temporaria","u":"Punta Proa (península Sanaviron), bahía Puerto Paraíso (estrecho de Gerlache)","i":"6 de abril de 1951","lt":"-64º 52'","lg":"-62º 54'"},"geometry":{"type":"Point","coordinates":[-62.9,-64.8667]}},
+{"type":"Feature","properties":{"id":"8","n":"Cámara","t":"Temporaria","u":"Isla Media Luna(caleta Menguante, bahía Luna, isla Livingston), estrecho Mac Farlane (islas Shetland del Sur)","i":"1° de abril de 1953","lt":"-62º 36'","lg":"-59º 54'"},"geometry":{"type":"Point","coordinates":[-59.9,-62.6]}},
+{"type":"Feature","properties":{"id":"9","n":"Decepción","t":"Temporaria","u":"Bahía 1º de Mayo (Puerto Foster), isla Decepción (islas Shetland del Sur)","i":"25 de enero de 1948","lt":"-62º 59'","lg":"-60º 43'"},"geometry":{"type":"Point","coordinates":[-60.7167,-62.9833]}},
+{"type":"Feature","properties":{"id":"10","n":"Matienzo","t":"Temporaria","u":"Nunatak Larsen (Nunatak Foca), barrera de hielos Larsen (mar de Weddell)","i":"15 de marzo de 1961","lt":"-64º 58'","lg":"-60º 08'"},"geometry":{"type":"Point","coordinates":[-60.1333,-64.9667]}},
+{"type":"Feature","properties":{"id":"11","n":"Melchior","t":"Temporaria","u":"Isla Observatorio (caleta Observatorio, puerto Melchior, canal Principal), archipiélago Melchior (bahía Dallmann, archipiélago de Palmer)","i":"31 de marzo de 1947","lt":"-64º 20'","lg":"-62º 59'"},"geometry":{"type":"Point","coordinates":[-62.9833,-64.3333]}},
+{"type":"Feature","properties":{"id":"12","n":"Petrel","t":"Temporaria","u":"Isla Dundee (rada Petrel, estrecho Active), cabo Welchness (Punta Bajos, estrecho Antarctic)","i":"Diciembre de 1952","lt":"-63º 28'","lg":"-56º 12'"},"geometry":{"type":"Point","coordinates":[-56.2,-63.4667]}},
+{"type":"Feature","properties":{"id":"13","n":"Primavera","t":"Temporaria","u":"Cabo Primavera (entre las caletas Cierva y Santucci) costa Danco (bahía Estrecho de Gerlache)","i":"8 de marzo de 1977","lt":"-64º 09'","lg":"-60º 58´"},"geometry":{"type":"Point","coordinates":[-60.97667,-64.15]}}
+]
+}

@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },                                                                                
+"features": [
+{ "type": "Feature", "properties": { "nombre": "FORMOSA", "capital_provincia": "(capital)", "estilo_id": 16, "link": "34014020", "varones": 106652, "mujeres": 115574, "personas": 222226 }, "geometry": { "type": "Point", "coordinates": [ -58.17, -26.18 ] } },
+{ "type": "Feature", "properties": { "nombre": "LA RIOJA", "capital_provincia": "(capital)", "estilo_id": 16, "link": "46014010", "varones": 87380, "mujeres": 91492, "personas": 178872 }, "geometry": { "type": "Point", "coordinates": [ -66.86, -29.42 ] } },
+{ "type": "Feature", "properties": { "nombre": "CIUDAD DE BUENOS AIRES", "capital_argentina": "(capital de la República Argentina)", "estilo_id": 15, "link": "02000010", "varones": 1329681, "mujeres": 1560470, "personas": 2890151 }, "geometry": { "type": "Point", "coordinates": [ -58.39, -34.61 ] } },
+{ "type": "Feature", "properties": { "nombre": "NEUQUEN", "capital_provincia": "(capital)", "estilo_id": 16, "link": "58035070", "varones": 112347, "mujeres": 118851, "personas": 231198 }, "geometry": { "type": "Point", "coordinates": [ -68.08, -38.95 ] } },
+{ "type": "Feature", "properties": { "nombre": "CORDOBA", "capital_provincia": "(capital)", "estilo_id": 16, "link": "14014010", "varones": 628094, "mujeres": 689204, "personas": 1317298 }, "geometry": { "type": "Point", "coordinates": [ -64.18, -31.41 ] } },
+{ "type": "Feature", "properties": { "nombre": "CORRIENTES", "capital_provincia": "(capital)", "estilo_id": 16, "link": "18021020", "varones": 165293, "mujeres": 181041, "personas": 346334 }, "geometry": { "type": "Point", "coordinates": [ -58.84, -27.46 ] } },
+{ "type": "Feature", "properties": { "nombre": "MENDOZA", "capital_provincia": "(capital)", "estilo_id": 16, "link": "50007010", "varones": 53979, "mujeres": 60914, "personas": 114893 }, "geometry": { "type": "Point", "coordinates": [ -68.85, -32.89 ] } },
+{ "type": "Feature", "properties": { "nombre": "LA PLATA", "estilo_id": 16, "link": "06441030", "varones": 309400, "mujeres": 333733, "personas": 643133 }, "geometry": { "type": "Point", "coordinates": [ -57.95, -34.92 ] } },
+{ "type": "Feature", "properties": { "nombre": "PARANA", "estilo_id": 16, "link": "30084160", "varones": 117227, "mujeres": 129912, "personas": 247139 }, "geometry": { "type": "Point", "coordinates": [ -60.53, -31.74 ] } },
+{ "type": "Feature", "properties": { "nombre": "POSADAS", "estilo_id": 16, "link": "54028030", "varones": 130786, "mujeres": 144242, "personas": 275028 }, "geometry": { "type": "Point", "coordinates": [ -55.89, -27.37 ] } },
+{ "type": "Feature", "properties": { "nombre": "RAWSON", "estilo_id": 16, "link": "26077030", "varones": 12446, "mujeres": 12170, "personas": 24616 }, "geometry": { "type": "Point", "coordinates": [ -65.1, -43.3 ] } },
+{ "type": "Feature", "properties": { "nombre": "RESISTENCIA", "estilo_id": 16, "link": "22140060", "varones": 139567, "mujeres": 151156, "personas": 290723 }, "geometry": { "type": "Point", "coordinates": [ -58.99, -27.45 ] } },
+{ "type": "Feature", "properties": { "nombre": "RIO GALLEGOS", "estilo_id": 16, "link": "78021040", "varones": 47851, "mujeres": 47945, "personas": 95796 }, "geometry": { "type": "Point", "coordinates": [ -69.23, -51.62 ] } },
+{ "type": "Feature", "properties": { "nombre": "USHUAIA", "estilo_id": 16, "link": "94014020", "varones": 28888, "mujeres": 27705, "personas": 56593 }, "geometry": { "type": "Point", "coordinates": [ -68.32, -54.8 ] } },
+{ "type": "Feature", "properties": { "nombre": "SAN JUAN", "capital_provincia": "(capital)", "estilo_id": 16, "link": "70028010", "varones": 50397, "mujeres": 58726, "personas": 109123 }, "geometry": { "type": "Point", "coordinates": [ -68.53, -31.54 ] } },
+{ "type": "Feature", "properties": { "nombre": "SAN LUIS", "capital_provincia": "(capital)", "estilo_id": 16, "link": "74056150", "varones": 82630, "mujeres": 87317, "personas": 169947 }, "geometry": { "type": "Point", "coordinates": [ -66.34, -33.3 ] } },
+{ "type": "Feature", "properties": { "nombre": "SAN MIGUEL DE TUCUMAN", "estilo_id": 16, "link": "90084010", "varones": 261010, "mujeres": 287856, "personas": 548866 }, "geometry": { "type": "Point", "coordinates": [ -65.21, -26.83 ] } },
+{ "type": "Feature", "properties": { "nombre": "VIEDMA", "estilo_id": 16, "link": "62007090", "varones": 25529, "mujeres": 27260, "personas": 52789 }, "geometry": { "type": "Point", "coordinates": [ -62.98, -40.81 ] } },
+{ "type": "Feature", "properties": { "nombre": "SAN FERNANDO DEL VALLE DE CATAMARCA", "estilo_id": 16, "link": "10049030", "varones": 76514, "mujeres": 82625, "personas": 159139 }, "geometry": { "type": "Point", "coordinates": [ -65.79, -28.48 ] } },
+{ "type": "Feature", "properties": { "nombre": "SAN SALVADOR DE JUJUY", "estilo_id": 16, "link": "38021060", "varones": 123837, "mujeres": 134133, "personas": 257970 }, "geometry": { "type": "Point", "coordinates": [ -65.3, -24.2 ] } },
+{ "type": "Feature", "properties": { "nombre": "SANTA FE", "capital_provincia": "(capital)", "estilo_id": 16, "link": "82063170", "varones": 185684, "mujeres": 205480, "personas": 391164 }, "geometry": { "type": "Point", "coordinates": [ -60.71, -31.64 ] } },
+{ "type": "Feature", "properties": { "nombre": "SANTA ROSA", "estilo_id": 16, "link": "42021020", "varones": 49490, "mujeres": 53370, "personas": 102860 }, "geometry": { "type": "Point", "coordinates": [ -64.29, -36.62 ] } },
+{ "type": "Feature", "properties": { "nombre": "SANTIAGO DEL ESTERO", "capital_provincia": "(capital)", "estilo_id": 16, "link": "86049110", "varones": 120026, "mujeres": 132166, "personas": 252192 }, "geometry": { "type": "Point", "coordinates": [ -64.27, -27.79 ] } },
+{ "type": "Feature", "properties": { "nombre": "SALTA", "capital_provincia": "(capital)", "estilo_id": 16, "link": "66028050", "varones": 249153, "mujeres": 271530, "personas": 520683 }, "geometry": { "type": "Point", "coordinates": [ -65.41, -24.78 ] } }
+]
+}
