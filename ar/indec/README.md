@@ -1,6 +1,6 @@
-Estaba viendo esta p�gina ( http://www.indec.gov.ar/gis/ ) que es una aplicaci�n GIS hecha con Leaftlet y servicios WMS del IGN y vi que los datos vectoriales del INDEC los tomaba de varios archivos en formato .js, asi que hice una peque�a conversi�n y quedaron disponibles en formato GeoJSON. 
+Estaba viendo [esta página](http://www.indec.gov.ar/gis/) que es una aplicación GIS desarrollada por el INDEC hecha con [Leaftlet](http://leafletjs.com/) y servicios WMS del IGN y vi que los datos vectoriales los tomaba de varios archivos en formato .js, así que hice una pequeña conversión y quedaron disponibles en formato GeoJSON. 
 
-GitHub los muestra directamente sobre un mapa cuando hacemos una previsualizaci�n.
+GitHub los muestra directamente sobre un mapa cuando hacemos una previsualización ( https://help.github.com/articles/mapping-geojson-files-on-github/ )
 
 Nota:
 
