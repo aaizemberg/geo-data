@@ -2,6 +2,7 @@ Estaba viendo [esta página](http://www.indec.gov.ar/gis/) que es una aplicació
 
 GitHub los muestra directamente sobre un mapa cuando hacemos una previsualización ( https://help.github.com/articles/mapping-geojson-files-on-github/ )
 
-Nota:
-
-localidades (resto de las localidades) +  cabeceras (de departamentos) + capitales (de provincias) = localidades_completo
+Si queres tener un archivo completo de Localidades, tenes que unir estos tres:
+ 1. capitales (de provincias)
+ 2. cabeceras (de departamentos)
+ 3. localidades (resto de las localidades)
