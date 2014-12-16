@@ -3,6 +3,6 @@ Estaba viendo [esta página](http://www.indec.gov.ar/gis/) que es una aplicació
 GitHub los muestra directamente sobre un mapa cuando hacemos una previsualización (https://help.github.com/articles/mapping-geojson-files-on-github/)
 
 Para tener un archivo completo de *Localidades*, tenes que unir estos tres:
- 1. *capitales* (de provincias)
- 2. *cabeceras* (de departamentos)
- 3. *localidades* (resto de las localidades)
+ 1. [capitales](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/capitales.geojson) (de provincias)
+ 2. [cabeceras](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/cabeceras.geojson) (de departamentos)
+ 3. [localidades](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/localidades.geojson) (resto de las localidades)
