@@ -66,10 +66,9 @@ Casi un 20 por ciento de jóvenes de entre 15 y 17 años no asisten a la escuela
 
 Fuente: CIPPEC, sobre la base del Instituto Nacional de Estadísticas y Censos (INDEC), Ministerio de Economía.
 
+variable: ASI2010
+
 * * *
 
 ...etc... (despues sigo)
 
-
-
-variable: ASI2010
