@@ -4,6 +4,6 @@ Conjunto de datos en formato JSON para el gráfico de Florence Nightingale
 
 [Versión animada en d3.js](http://bl.ocks.org/kgryte/raw/5926740/)
 
-source: https://www.npmjs.com/package/datasets-nightingales-rose
+source: https://www.npmjs.com/package/datasets-nightingales-rose & http://understandinguncertainty.org/node/214
 
 
