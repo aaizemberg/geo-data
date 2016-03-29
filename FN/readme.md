@@ -1,4 +1,4 @@
-Conjunto de datos en formato JSON para el gráfico de Florence Nightingale
+Conjunto de datos en formato JSON y TSV para el gráfico de Florence Nightingale
 
 ![Florence Nightingale's chart](https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg "Florence Nightingale's chart")
 
