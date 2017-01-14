@@ -23,6 +23,19 @@ d3.select("body").selectAll("div.data").data(listDealers).enter()
 ```
 
 * Bridgestone
+
+```javascript
+var url = "http://www.bridgestone.com.ar/pasajero/neumaticos/puntos-de-venta";
+// <span id="ContenidoPrincipal_C001_lblJsonGeolocalizar" style="display: none">[{"geo_longitud ...
+var data = [{"geo_longitud": ... }];
+d3.select("body").append("div").text("rowid|longitud|latitud|nombreContacto|descripcionContacto|telefono1|telefono2|email|urlSitio");
+d3.select("body").selectAll("div.rows").data(data).enter().append("div").attr("class","rows")
+  .text( function(d,i) {return i + "|"  + d.geo_longitud + "|" + d.geo_latitud
+     + "|" + d.nombreContacto + "|" + d.descripcionContacto + "|" + d.telefono1 + "|" + d.telefono2
+     + "|" + d.email + "|" + d.urlSitio;} 
+       );
+```
+
 * Pirelli
 * Firestone
 * Goodyear
