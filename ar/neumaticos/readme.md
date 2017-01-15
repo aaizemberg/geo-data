@@ -37,5 +37,16 @@ d3.select("body").selectAll("div.rows").data(data).enter().append("div").attr("c
 ```
 
 * Pirelli
+
+```javascript
+var url = "https://www.pirelli.com/tyres/es-ar/__service__/dealer/dataDealers/data?pageId=17634";
+var datos = {"status":true,"data":[ ... ]};
+d3.select("body").append("div").text('address|city|details|email|fax|lat|lng|id|image|name|phone|region|url|zip');
+d3.select("body").selectAll("div.rows").data(datos.data).enter().append("div").attr("class","rows")
+  .text(function(d,i) { return i + '|' + d.address + '|' + d.city + '|' + d.details + '|' + d.email + '|' + d.fax + '|' + d.geo_localization.lat + '|' + d.geo_localization.lng + '|' + d.id + '|' + d.image + '|' + d.name + '|' + d.phone + '|' + d.region + '|' + d.url + '|' + d.zip; });
+```
+
 * Firestone
+
 * Goodyear
+
