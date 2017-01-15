@@ -48,5 +48,14 @@ d3.select("body").selectAll("div.rows").data(datos.data).enter().append("div").a
 
 * Firestone
 
-* Goodyear
+```javascript
+var = "http://www.firestone.com.ar/pasajero/neumaticos/puntos-de-venta"
+var data = var data = [{"geo_longitud":... ];
+d3.select("body").append("div").text('descripcionContacto|email|geo_latitud|geo_longitud|horario|nombreContacto|telefono1|telefono2|urlSitio');
+d3.select("body").selectAll("div.datos").data(data).enter().append("div").attr("class","datos")
+  .text(function(d,i) { return i + '|' + d.descripcionContacto + '|' + d.email + '|' + d.geo_latitud + '|' +d.geo_longitud + '|' +d.horario + '|' + d.nombreContacto + '|' + d.telefono1 + '|' + d.telefono2 + '|' + d.urlSitio; });
+ ```
 
+* Goodyear
+http://www.goodyear.com.ar/  
+http://www.goodyear.com.ar/cfmx/web/ladealer/index.cfm?countryid=4
