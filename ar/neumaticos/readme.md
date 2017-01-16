@@ -57,5 +57,8 @@ d3.select("body").selectAll("div.datos").data(data).enter().append("div").attr("
  ```
 
 * Goodyear
-http://www.goodyear.com.ar/  
-http://www.goodyear.com.ar/cfmx/web/ladealer/index.cfm?countryid=4
+
+```javascript
+var = "http://www.goodyear.com.ar/cfmx/web/ladealer/dealers.cfm?countryid=4"
+// los datos estan en la 2da tabla, separados por <br />'s
+```
