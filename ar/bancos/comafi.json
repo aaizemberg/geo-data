@@ -1,0 +1,1420 @@
+[
+   {
+      "id":"17",
+      "name":"Banfield",
+      "state":"GBA Sur",
+      "city":"Banfield",
+      "address":"Maipú",
+      "number":"302",
+      "coordx":"-34.743604938363305",
+      "coordy":"-58.39162588119507",
+      "phone":"4202-4889",
+      "zipcode":"B1828IJH",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"32",
+      "name":"Barrio Norte",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Barrio Norte",
+      "address":"Av. Santa Fe",
+      "number":"2762",
+      "coordx":"-34.592919",
+      "coordy":"-58.405727",
+      "phone":"4823-3119",
+      "zipcode":"C1425BGP",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"30",
+      "name":"Belgrano",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Belgrano",
+      "address":"Ciudad de la Paz",
+      "number":"2175",
+      "coordx":"-34.561906",
+      "coordy":"-58.458279",
+      "phone":"4783-6731",
+      "zipcode":"C1428CPI",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"4",
+      "name":"Berazategui",
+      "state":"GBA Sur",
+      "city":"Berazategui",
+      "address":"Pte. Juan D. Perón",
+      "number":"4975",
+      "coordx":"-34.760809",
+      "coordy":"-58.207279",
+      "phone":"4256-2007",
+      "zipcode":"B1880BFP",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"3",
+      "name":"Bernal",
+      "state":"GBA Sur",
+      "city":"Bernal",
+      "address":"Belgrano",
+      "number":"364",
+      "coordx":"-34.711904",
+      "coordy":"-58.281459",
+      "phone":"4251-3585",
+      "zipcode":"B1876AFH",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"15",
+      "name":"Bernal Oeste",
+      "state":"GBA Sur",
+      "city":"Bernal Oeste",
+      "address":"Av. Los Quilmes",
+      "number":"786",
+      "coordx":"-34.719159",
+      "coordy":"-58.304039",
+      "phone":"4252-5250",
+      "zipcode":"B1883FIU",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"31",
+      "name":"Botánico",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Botánico",
+      "address":"Av. Santa Fe",
+      "number":"4018",
+      "coordx":"-34.582245",
+      "coordy":"-58.420164",
+      "phone":"4832-5842",
+      "zipcode":"C1425BHP",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"38",
+      "name":"Caballito",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Caballito",
+      "address":"Av. Rivadavia",
+      "number":"5288",
+      "coordx":"-34.619923",
+      "coordy":"-58.440095",
+      "phone":"4901-4434",
+      "zipcode":"C1424CEU",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"28",
+      "name":"Callao",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Callao",
+      "address":"Av. Callao",
+      "number":"1279",
+      "coordx":"-34.59404",
+      "coordy":"-58.393061",
+      "phone":"4813-4666",
+      "zipcode":"C1023AAF",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"55",
+      "name":"Campana",
+      "state":"Buenos Aires",
+      "city":"Campana",
+      "address":"Av. Ingeniero Agustin Rocca",
+      "number":"Nº 41 al 49",
+      "coordx":"-34.159458",
+      "coordy":"-58.958641",
+      "phone":"(03489) 43-1174",
+      "zipcode":"B2804FYA",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"1",
+      "name":"Casa Central",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Microcentro",
+      "address":"Av. Roque Saenz Peña",
+      "number":"660",
+      "coordx":"-34.60692349950329",
+      "coordy":"-58.375715017318726",
+      "phone":"4347-0400",
+      "zipcode":"1035AAO",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"24",
+      "name":"Caseros",
+      "state":"GBA Oeste",
+      "city":"Caseros",
+      "address":"Av. San Martín",
+      "number":"2861",
+      "coordx":"-34.608671",
+      "coordy":"-58.562209",
+      "phone":"4750-4140",
+      "zipcode":"B1678GQE",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"42",
+      "name":"Chivilcoy",
+      "state":"Buenos Aires",
+      "city":"Chivilcoy",
+      "address":"Av. Sarmiento",
+      "number":"149",
+      "coordx":"-34.899476",
+      "coordy":"-60.015743",
+      "phone":"(02346) 42-0147",
+      "zipcode":"B6620LPB",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"37",
+      "name":"Congreso",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Congreso",
+      "address":"Av. Callao",
+      "number":"169",
+      "coordx":"-34.607143",
+      "coordy":"-58.392062",
+      "phone":"4372-2517",
+      "zipcode":"C1022AAB",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"12",
+      "name":"Constitución",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Constitución",
+      "address":"Bdo. de Irigoyen",
+      "number":"1578",
+      "coordx":"-34.627162",
+      "coordy":"-58.378581",
+      "phone":"4300-0334",
+      "zipcode":"C1138ABJ",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"59",
+      "name":"Córdoba",
+      "state":"Córdoba",
+      "city":"Córdoba",
+      "address":"General Alvear",
+      "number":"83",
+      "coordx":"-31.4158157",
+      "coordy":"-64.181054",
+      "phone":"( 0351) 422-2896/2873",
+      "zipcode":"X5000ELD",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"8",
+      "name":"Crucecita",
+      "state":"GBA Sur",
+      "city":"Avellaneda",
+      "address":"Av. Mitre",
+      "number":"1255",
+      "coordx":"-34.665164",
+      "coordy":"-58.359965",
+      "phone":"4222-4040",
+      "zipcode":"B1870AAM",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"44",
+      "name":"Devoto",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Devoto",
+      "address":"Av. Fco. Beiró",
+      "number":"5265",
+      "coordx":"-34.613609",
+      "coordy":"-58.524581",
+      "phone":"4639-1024",
+      "zipcode":"C1419IAQ",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"46",
+      "name":"F. Varela",
+      "state":"GBA Sur",
+      "city":"Florencio Varela",
+      "address":"Av. Calchaquí",
+      "number":"6339",
+      "coordx":"-34.785939",
+      "coordy":"-58.256926",
+      "phone":"4237-3406",
+      "zipcode":"B1888ABA",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"39",
+      "name":"Flores",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Flores",
+      "address":"Av. Rivadavia",
+      "number":"6770",
+      "coordx":"-34.628322",
+      "coordy":"-58.460772",
+      "phone":"4633-0440",
+      "zipcode":"C1406GLX",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"36",
+      "name":"Hurlingham",
+      "state":"GBA Oeste",
+      "city":"Hurlingham",
+      "address":"Arturo Jauretche",
+      "number":"1157",
+      "coordx":"-34.589845",
+      "coordy":"-58.632909",
+      "phone":"4662-8937",
+      "zipcode":"B1686FCE",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"43",
+      "name":"La Plata",
+      "state":"Buenos Aires",
+      "city":"La Plata",
+      "address":"Av 7 NRO 737",
+      "number":"",
+      "coordx":"-34.9129041",
+      "coordy":"-57.9523429",
+      "phone":"(0221) 423-2639",
+      "zipcode":"",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"9",
+      "name":"Lanús",
+      "state":"GBA Sur",
+      "city":"Lanús Oeste",
+      "address":"Av. H. Yrigoyen",
+      "number":"4473",
+      "coordx":"-34.706473",
+      "coordy":"-58.391861",
+      "phone":"4241-0708",
+      "zipcode":"B1824ABA",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"53",
+      "name":"Lomas de San Isidro",
+      "state":"GBA Norte",
+      "city":"Lomas de San Isidro",
+      "address":"Ite. Tomkinson",
+      "number":"2995",
+      "coordx":"-34.481277",
+      "coordy":"-58.555285",
+      "phone":"4723-6731",
+      "zipcode":"B1643GMD",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"58",
+      "name":"Lomas de Zamora",
+      "state":"GBA Sur",
+      "city":"Lomas de Zamora",
+      "address":"Italia ",
+      "number":"161",
+      "coordx":"-34.762420",
+      "coordy":"-58.401346",
+      "phone":"4245-0492 | 4244-6910 / 6394 / 7060",
+      "zipcode":"C1010ABE",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"21",
+      "name":"Lomas del Mirador",
+      "state":"GBA Oeste",
+      "city":"Lomas del Mirador",
+      "address":"Ing. Mosconi",
+      "number":"1063",
+      "coordx":"-34.663806",
+      "coordy":"-58.562449",
+      "phone":"4653-5325",
+      "zipcode":"B1752CXK",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"14",
+      "name":"Longchamps",
+      "state":"GBA Sur",
+      "city":"Longchamps",
+      "address":"Av. H. Yrigoyen",
+      "number":"18294",
+      "coordx":"-34.857391",
+      "coordy":"-58.392076",
+      "phone":"4297-0627",
+      "zipcode":"B1854GAQ",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"56",
+      "name":"Mar del Plata",
+      "state":"Buenos Aires",
+      "city":"Mar del Plata",
+      "address":"Av. Independencia",
+      "number":"1521",
+      "coordx":"-37.994855",
+      "coordy":"-57.551671",
+      "phone":"(0223) 495-3476",
+      "zipcode":"B7600DHL",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"47",
+      "name":"Martínez",
+      "state":"GBA Norte",
+      "city":"Martínez",
+      "address":"Santa Fe",
+      "number":"1729",
+      "coordx":"-34.48757",
+      "coordy":"-58.501642",
+      "phone":"4793-9880",
+      "zipcode":"B1640IFE",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"57",
+      "name":"Mendoza",
+      "state":"Mendoza",
+      "city":"Mendoza",
+      "address":"Av. España",
+      "number":"1121",
+      "coordx":"-32.889925",
+      "coordy":"-68.841864",
+      "phone":"(0261) 429-0689",
+      "zipcode":"M5500DXL",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"48",
+      "name":"Merlo",
+      "state":"GBA Oeste",
+      "city":"Merlo",
+      "address":"Av. Lib. Gral. San Martín",
+      "number":"367",
+      "coordx":"-34.6705016",
+      "coordy":"-58.7250767",
+      "phone":"(0220) 483-4022",
+      "zipcode":"B1722ERD",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"11",
+      "name":"Monte Chingolo",
+      "state":"GBA Sur",
+      "city":"Monte Chingolo",
+      "address":"Av. Eva Perón",
+      "number":"3376",
+      "coordx":"-34.7215261",
+      "coordy":"-58.362521500000014",
+      "phone":"4246-5984",
+      "zipcode":"B1824IDB",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"13",
+      "name":"Monte Grande",
+      "state":"GBA Sur",
+      "city":"Monte Grande",
+      "address":"Mariano Acosta",
+      "number":"76",
+      "coordx":"-34.820999",
+      "coordy":"-58.474409",
+      "phone":"4296-1448",
+      "zipcode":"B1842ASC",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"33",
+      "name":"Morón",
+      "state":"GBA Oeste",
+      "city":"Morón",
+      "address":"Alte. Brown",
+      "number":"726",
+      "coordx":"-34.650546",
+      "coordy":"-58.61885",
+      "phone":"4628- 9201",
+      "zipcode":"B1708EFN",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"23",
+      "name":"Munro",
+      "state":"GBA Norte",
+      "city":"Munro",
+      "address":"Belgrano",
+      "number":"2549",
+      "coordx":"-34.529731",
+      "coordy":"-58.523684",
+      "phone":"4762-0318",
+      "zipcode":"B1605CGE",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"54",
+      "name":"Nordelta",
+      "state":"GBA Norte",
+      "city":"Tigre",
+      "address":"Av. del Mirador Area Ribereña",
+      "number":"220",
+      "coordx":"-34.39476",
+      "coordy":"-58.650835",
+      "phone":"4871-8528",
+      "zipcode":"B1671NIF",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"27",
+      "name":"Nueva Pompeya",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Nueva Pompeya",
+      "address":"Esquiú",
+      "number":"1039",
+      "coordx":"-34.65177",
+      "coordy":"-58.418215",
+      "phone":"4918-2909",
+      "zipcode":"C1437JPC",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"61",
+      "name":"Olavarria",
+      "state":"Buenos Aires",
+      "city":"Olavarria",
+      "address":"Vicente Lopez",
+      "number":"2855",
+      "coordx":"-36.892758",
+      "coordy":"-60.322849",
+      "phone":"(02284) 42-7150",
+      "zipcode":"AB7400CRK",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"26",
+      "name":"Once",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Once",
+      "address":"Sarmiento",
+      "number":"2659",
+      "coordx":"-34.606411",
+      "coordy":"-58.404208",
+      "phone":"4951-0796",
+      "zipcode":"C1032AAC",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"45",
+      "name":"Pergamino",
+      "state":"Buenos Aires",
+      "city":"Pergamino",
+      "address":"San Nicolás",
+      "number":"664",
+      "coordx":"-33.895498",
+      "coordy":"-60.573531",
+      "phone":"(02477) 42-0854",
+      "zipcode":"B2700LAN",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"50",
+      "name":"Pilar",
+      "state":"GBA Norte",
+      "city":"Pilar",
+      "address":"Av. Caamaño Km 46 de Panamericana - Complejo 46 Plaza - Edificio Officia Work ",
+      "number":"",
+      "coordx":"-34.435386",
+      "coordy":"-58.829828",
+      "phone":"(230) 15-447-8918 / 15-452-1681",
+      "zipcode":"B1629LZA",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"6",
+      "name":"Piñeyro",
+      "state":"GBA Sur",
+      "city":"Piñeyro",
+      "address":"Av. Galicia",
+      "number":"672",
+      "coordx":"-34.671652",
+      "coordy":"-58.389461",
+      "phone":"4208-3130",
+      "zipcode":"B1868BGT",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"2",
+      "name":"Quilmes",
+      "state":"GBA Sur",
+      "city":"Quilmes",
+      "address":"Rivadavia",
+      "number":"250",
+      "coordx":"-34.753924",
+      "coordy":"-58.223842",
+      "phone":"4253-4071",
+      "zipcode":"B1878KJF",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"7",
+      "name":"Quilmes Oeste",
+      "state":"GBA Sur",
+      "city":"Quilmes Oeste",
+      "address":"Av. 12 de Octubre",
+      "number":"646",
+      "coordx":"-34.730294",
+      "coordy":"-58.265061",
+      "phone":"4253-0248",
+      "zipcode":"B1878AAN",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"16",
+      "name":"Ramos Mejía",
+      "state":"GBA Oeste",
+      "city":"Ramos Mejía",
+      "address":"Belgrano",
+      "number":"147",
+      "coordx":"-34.642013",
+      "coordy":"-58.566291",
+      "phone":"4658-6111",
+      "zipcode":"B1704ETC",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"34",
+      "name":"Recoleta",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Recoleta",
+      "address":"Av. Quintana",
+      "number":"439",
+      "coordx":"-34.588803",
+      "coordy":"-58.389338",
+      "phone":"4804-1099",
+      "zipcode":"C1129ABA",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"29",
+      "name":"Retiro",
+      "state":"Ciudad Autónoma de Bs. As.",
+      "city":"Retiro",
+      "address":"Av. Córdoba",
+      "number":"669",
+      "coordx":"-34.59878132503775",
+      "coordy":"-58.3763587474823",
+      "phone":"4311-1080",
+      "zipcode":"C1054AAF",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"106",
+            "name":"Kit para personas con dificultades visuales"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"60",
+      "name":"Rosario",
+      "state":"Santa Fe",
+      "city":"Rosario",
+      "address":"Mitre",
+      "number":"701",
+      "coordx":"-32.9448827",
+      "coordy":"-60.6392446",
+      "phone":"(0341) 421-4406 | 424-7559",
+      "zipcode":"S2000ATR",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"10",
+      "name":"San Francisco Solano",
+      "state":"GBA Sur",
+      "city":"San Francisco Solano",
+      "address":"Av. 844",
+      "number":"N° 2402",
+      "coordx":"-34.806788",
+      "coordy":"-58.350673",
+      "phone":"4212-2821",
+      "zipcode":"B1881BWT",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   },
+   {
+      "id":"35",
+      "name":"San Isidro",
+      "state":"GBA Norte",
+      "city":"San Isidro",
+      "address":"9 de Julio",
+      "number":"499",
+      "coordx":"-34.468329",
+      "coordy":"-58.51054",
+      "phone":"4743-0244",
+      "zipcode":"B1642DLC",
+      "type":"Sucursales",
+      "categories":[
+         {
+            "id":"23",
+            "name":"Cajas de seguridad"
+         },
+         {
+            "id":"22",
+            "name":"Terminales"
+         },
+         {
+            "id":"21",
+            "name":"ATM"
+         }
+      ]
+   }
+]
