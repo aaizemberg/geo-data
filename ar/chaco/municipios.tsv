@@ -1,70 +1,70 @@
-id	municipio
-47	AVIA TERAI
-2	BARRANQUERAS
-5	BASAIL
-48	CAMPO LARGO
-16	CAPITAN SOLARI
-33	CHARADAI
-51	CHARATA
-65	CHOROTIS
-31	CIERVO PETISO
-6	COLONIA BENITEZ
-15	COLONIA ELISA
-9	COLONIA POPULAR
-17	COLONIAS UNIDAS
-57	CONCEP.DEL BERMEJO
-38	CORONEL DU GRATY
-49	CORZUELA
-32	COTE LAI
-36	ENRIQUE URIEN
-69	EL ESPINILLO
-61	EL SAUZALITO
-4	FONTANA
-63	FUERTE ESPERANZA
-27	G. J. DE SAN MARTIN
-54	GANCEDO
-53	GENERAL CAPDEVILA
-52	GENERAL PINEDO
-23	GENERAL VEDIA
-55	HERMOSO CAMPO
-20	ISLA DEL CERRITO
-64	JUAN JOSE CASTELLI
-10	LAGUNA BLANCA
-30	LAGUNA LIMPIA
-11	LAPACHITO
-40	LA CLOTILDE
-25	LA EDUVIGIS
-14	LA ESCONDIDA
-22	LA LEONESA
-41	LA TIGRA
-13	LA VERDE
-50	LAS BREÑAS
-18	LAS GARCITAS
-21	LAS PALMAS
-59	LOS FRENTONES
-44	MACHAGAI
-7	MARGARITA BELEN
-12	MAKALLE
-67	MIRAFLORES
-62	MISION NUEVA POMPEYA
-46	NAPENAY
-26	PAMPA ALMIRON
-29	PAMPA DEL INDIO
-58	PAMPA DEL INFIERNO
-19	PCIA. DE LA PLAZA
-42	PCIA. ROQUE S.PEÑA
-28	PRESIDENCIA ROCA
-24	PUERTO BERMEJO
-66	PUERTO EVA PERON
-8	PUERTO TIROL
-3	PUERTO VILELAS
-43	QUITILIPI
-1	RESISTENCIA
-56	SANTA SYLVINA
-60	TACO POZO
-45	TRES ISLETAS
-37	VILLA ANGELA
-34	VILLA BERTHET
-68	VILLA RIO BERMEJITO
-35	SAMUHU
-39	SAN BERNARDO
+id	municipio	url
+47	AVIA TERAI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=47
+2	BARRANQUERAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=2
+5	BASAIL	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=5
+48	CAMPO LARGO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=48
+16	CAPITAN SOLARI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=16
+33	CHARADAI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=33
+51	CHARATA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=51
+65	CHOROTIS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=65
+31	CIERVO PETISO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=31
+6	COLONIA BENITEZ	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=6
+15	COLONIA ELISA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=15
+9	COLONIA POPULAR	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=9
+17	COLONIAS UNIDAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=17
+57	CONCEP.DEL BERMEJO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=57
+38	CORONEL DU GRATY	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=38
+49	CORZUELA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=49
+32	COTE LAI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=32
+36	ENRIQUE URIEN	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=36
+69	EL ESPINILLO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=69
+61	EL SAUZALITO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=61
+4	FONTANA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=4
+63	FUERTE ESPERANZA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=63
+27	G. J. DE SAN MARTIN	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=27
+54	GANCEDO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=54
+53	GENERAL CAPDEVILA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=53
+52	GENERAL PINEDO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=52
+23	GENERAL VEDIA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=23
+55	HERMOSO CAMPO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=55
+20	ISLA DEL CERRITO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=20
+64	JUAN JOSE CASTELLI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=64
+10	LAGUNA BLANCA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=10
+30	LAGUNA LIMPIA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=30
+11	LAPACHITO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=11
+40	LA CLOTILDE	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=40
+25	LA EDUVIGIS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=25
+14	LA ESCONDIDA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=14
+22	LA LEONESA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=22
+41	LA TIGRA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=41
+13	LA VERDE	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=13
+50	LAS BREÑAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=50
+18	LAS GARCITAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=18
+21	LAS PALMAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=21
+59	LOS FRENTONES	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=59
+44	MACHAGAI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=44
+7	MARGARITA BELEN	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=7
+12	MAKALLE	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=12
+67	MIRAFLORES	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=67
+62	MISION NUEVA POMPEYA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=62
+46	NAPENAY	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=46
+26	PAMPA ALMIRON	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=26
+29	PAMPA DEL INDIO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=29
+58	PAMPA DEL INFIERNO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=58
+19	PCIA. DE LA PLAZA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=19
+42	PCIA. ROQUE S.PEÑA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=42
+28	PRESIDENCIA ROCA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=28
+24	PUERTO BERMEJO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=24
+66	PUERTO EVA PERON	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=66
+8	PUERTO TIROL	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=8
+3	PUERTO VILELAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=3
+43	QUITILIPI	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=43
+1	RESISTENCIA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=1
+56	SANTA SYLVINA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=56
+60	TACO POZO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=60
+45	TRES ISLETAS	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=45
+37	VILLA ANGELA	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=37
+34	VILLA BERTHET	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=34
+68	VILLA RIO BERMEJITO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=68
+35	SAMUHU	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=35
+39	SAN BERNARDO	http://electoralchaco.gov.ar/api/mesas/mesasxmunicipio?municipioid=39
