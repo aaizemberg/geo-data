@@ -14,6 +14,6 @@ preview --> https://github.com/aaizemberg/geo-data/blob/master/ar/chaco/AR-H_cir
 
 raw data --> https://raw.githubusercontent.com/aaizemberg/geo-data/master/ar/chaco/AR-H_circuitos.geojson
 
-```
+___
+
 fuente: http://electoralchaco.gov.ar/
-```
