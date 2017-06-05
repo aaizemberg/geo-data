@@ -7,9 +7,7 @@
             }
         },
         features: [{
-            type: "Feature",
-            id: 15,
-            properties: {
+properties: {
                 id: 15,
                 nombre: "25 de Mayo"
             },
@@ -40,9 +38,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 5,
-            properties: {
+properties: {
                 id: 5,
                 nombre: "Sgto. Cabral"
             },
@@ -84,9 +80,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 17,
-            properties: {
+properties: {
                 id: 17,
                 nombre: "Independencia"
             },
@@ -115,9 +109,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 20,
-            properties: {
+properties: {
                 id: 20,
                 nombre: "Chacabuco"
             },
@@ -137,9 +129,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 18,
-            properties: {
+properties: {
                 id: 18,
                 nombre: "Gral. Belgrano"
             },
@@ -166,9 +156,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 16,
-            properties: {
+properties: {
                 id: 16,
                 nombre: "Maipu"
             },
@@ -189,9 +177,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 8,
-            properties: {
+properties: {
                 id: 8,
                 nombre: "Gral. San Martin"
             },
@@ -489,9 +475,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 22,
-            properties: {
+properties: {
                 id: 22,
                 nombre: "2 de Abril"
             },
@@ -514,9 +498,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 10,
-            properties: {
+properties: {
                 id: 10,
                 nombre: "San Lorenzo"
             },
@@ -540,9 +522,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 24,
-            properties: {
+properties: {
                 id: 24,
                 nombre: "Alte. Brown"
             },
@@ -573,9 +553,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 12,
-            properties: {
+properties: {
                 id: 12,
                 nombre: "O'higgins"
             },
@@ -604,9 +582,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 14,
-            properties: {
+properties: {
                 id: 14,
                 nombre: "Quitilipi"
             },
@@ -628,9 +604,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 6,
-            properties: {
+properties: {
                 id: 6,
                 nombre: "Pcia. De La Plaza"
             },
@@ -658,9 +632,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 2,
-            properties: {
+properties: {
                 id: 2,
                 nombre: "1ro de Mayo"
             },
@@ -786,9 +758,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 4,
-            properties: {
+properties: {
                 id: 4,
                 nombre: "Gral. Donovan"
             },
@@ -826,9 +796,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 25,
-            properties: {
+properties: {
                 id: 25,
                 nombre: "Gral. Guemes"
             },
@@ -1150,9 +1118,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 19,
-            properties: {
+properties: {
                 id: 19,
                 nombre: "9 de Julio"
             },
@@ -1180,9 +1146,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 9,
-            properties: {
+properties: {
                 id: 9,
                 nombre: "Tapenaga"
             },
@@ -1204,9 +1168,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 23,
-            properties: {
+properties: {
                 id: 23,
                 nombre: "Fray J.S.M. de Oro"
             },
@@ -1231,9 +1193,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 3,
-            properties: {
+properties: {
                 id: 3,
                 nombre: "Libertad"
             },
@@ -1298,9 +1258,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 11,
-            properties: {
+properties: {
                 id: 11,
                 nombre: "Mayor L.J. Fontana"
             },
@@ -1331,9 +1289,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 1,
-            properties: {
+properties: {
                 id: 1,
                 nombre: "San Fernando"
             },
@@ -1418,9 +1374,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 7,
-            properties: {
+properties: {
                 id: 7,
                 nombre: "Bermejo"
             },
@@ -1616,9 +1570,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 13,
-            properties: {
+properties: {
                 id: 13,
                 nombre: "Cte. Fernandez"
             },
@@ -1637,9 +1589,7 @@
                 ]
             }
         }, {
-            type: "Feature",
-            id: 21,
-            properties: {
+properties: {
                 id: 21,
                 nombre: "12 de Octubre"
             },
@@ -1659,4 +1609,4 @@
                 ]
             }
         }]
-    }
+}
