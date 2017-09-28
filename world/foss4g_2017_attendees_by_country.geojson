@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "foss4g_2017_attendees_by_country",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "country": "USA", "attendees": 854, "display_name": "United States of America" }, "geometry": { "type": "Point", "coordinates": [ -100.4458825, 39.7837304 ] } },
+{ "type": "Feature", "properties": { "country": "Canada", "attendees": 39, "display_name": "Canada" }, "geometry": { "type": "Point", "coordinates": [ -107.9917071, 61.0666922 ] } },
+{ "type": "Feature", "properties": { "country": "South Korea", "attendees": 25, "display_name": "대한민국" }, "geometry": { "type": "Point", "coordinates": [ 127.9408564, 36.5581914 ] } },
+{ "type": "Feature", "properties": { "country": "Germany", "attendees": 24, "display_name": "Deutschland" }, "geometry": { "type": "Point", "coordinates": [ 10.4234469, 51.0834196 ] } },
+{ "type": "Feature", "properties": { "country": "Norway", "attendees": 24, "display_name": "Norge" }, "geometry": { "type": "Point", "coordinates": [ 9.0999715, 60.5000209 ] } },
+{ "type": "Feature", "properties": { "country": "UK", "attendees": 22, "display_name": "UK" }, "geometry": { "type": "Point", "coordinates": [ -3.2765753, 54.7023545 ] } },
+{ "type": "Feature", "properties": { "country": "Denmark", "attendees": 18, "display_name": "Danmark" }, "geometry": { "type": "Point", "coordinates": [ 10.3333283, 55.670249 ] } },
+{ "type": "Feature", "properties": { "country": "Australia", "attendees": 16, "display_name": "Australia" }, "geometry": { "type": "Point", "coordinates": [ 134.755, -24.7761086 ] } },
+{ "type": "Feature", "properties": { "country": "Sweden", "attendees": 16, "display_name": "Sverige" }, "geometry": { "type": "Point", "coordinates": [ 14.5208584, 59.6749712 ] } },
+{ "type": "Feature", "properties": { "country": "Netherlands", "attendees": 13, "display_name": "Nederland" }, "geometry": { "type": "Point", "coordinates": [ 5.7480821, 52.5001698 ] } },
+{ "type": "Feature", "properties": { "country": "Italy", "attendees": 11, "display_name": "Italia" }, "geometry": { "type": "Point", "coordinates": [ 12.674297, 42.6384261 ] } },
+{ "type": "Feature", "properties": { "country": "Brazil", "attendees": 9, "display_name": "Brasil" }, "geometry": { "type": "Point", "coordinates": [ -53.2, -10.3333333 ] } },
+{ "type": "Feature", "properties": { "country": "France", "attendees": 9, "display_name": "France" }, "geometry": { "type": "Point", "coordinates": [ 1.8883335, 46.603354 ] } },
+{ "type": "Feature", "properties": { "country": "Finland", "attendees": 8, "display_name": "Suomi" }, "geometry": { "type": "Point", "coordinates": [ 25.9209164, 63.2467777 ] } },
+{ "type": "Feature", "properties": { "country": "South Africa", "attendees": 8, "display_name": "South Africa" }, "geometry": { "type": "Point", "coordinates": [ 24.991639, -28.8166236 ] } },
+{ "type": "Feature", "properties": { "country": "Spain", "attendees": 8, "display_name": "España" }, "geometry": { "type": "Point", "coordinates": [ -4.003104, 40.0028028 ] } },
+{ "type": "Feature", "properties": { "country": "Japan", "attendees": 7, "display_name": "日本" }, "geometry": { "type": "Point", "coordinates": [ 139.2394179, 36.5748441 ] } },
+{ "type": "Feature", "properties": { "country": "Israel", "attendees": 6, "display_name": "מדינת ישראל" }, "geometry": { "type": "Point", "coordinates": [ 35.0015196, 30.8760272 ] } },
+{ "type": "Feature", "properties": { "country": "Switzerland", "attendees": 6, "display_name": "Switzerland" }, "geometry": { "type": "Point", "coordinates": [ 8.2319736, 46.7985624 ] } },
+{ "type": "Feature", "properties": { "country": "Czech Republic", "attendees": 4, "display_name": "Česko" }, "geometry": { "type": "Point", "coordinates": [ 15.4749544, 49.8167003 ] } },
+{ "type": "Feature", "properties": { "country": "Nigeria", "attendees": 4, "display_name": "Nigeria" }, "geometry": { "type": "Point", "coordinates": [ 7.9999721, 9.6000359 ] } }
+]
+}
