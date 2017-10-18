@@ -2,7 +2,7 @@
 
 ![cartograma](https://raw.githubusercontent.com/aaizemberg/geo-data/master/ar/cippec/Cartograma_CIPPEC_data.jpg "cartograma")
 
-En esta página http://cippec.org/data/ tenemos una visualización en forma de mapa  [cartograma](https://es.wikipedia.org/wiki/Cartograma) que tiene un conjunto de datos muy interesante.
+En esta página http://cippec.org/data/ tenemos una visualización en forma de mapa/[cartograma](https://es.wikipedia.org/wiki/Cartograma) que tiene un conjunto de datos muy interesante.
 
 La visualización usa este CSV --> http://cippec.org/data/data/cippec.csv
 
