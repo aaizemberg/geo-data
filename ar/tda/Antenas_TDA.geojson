@@ -1,0 +1,1977 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.0717,-34.0642 ]
+    },
+    "properties": {
+    "sitio":"Arrecifes",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Arrecifes",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"71.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.8795,-36.7319 ]
+    },
+    "properties": {
+    "sitio":"Azul",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Azul",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"121.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.9602,-34.2374 ]
+    },
+    "properties": {
+    "sitio":"Campana",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Campana",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.6834,-38.1952 ]
+    },
+    "properties": {
+    "sitio":"Chapadmalal",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Chapadmalal",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.9658,-35.5866 ]
+    },
+    "properties": {
+    "sitio":"Chascomús",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Chascomús",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2455,-35.1194 ]
+    },
+    "properties": {
+    "sitio":"Coronel Brandsen",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Coronel Brandsen",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.9386,-37.4996 ]
+    },
+    "properties": {
+    "sitio":"Coronel Suarez",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Coronel Suarez",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.7336,-37.4269 ]
+    },
+    "properties": {
+    "sitio":"Coronel Vidal",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Coronel Vidal",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.6855,-36.2719 ]
+    },
+    "properties": {
+    "sitio":"Dolores",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Dolores",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2025,-34.8394 ]
+    },
+    "properties": {
+    "sitio":"Florencio Varela",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"Diferencial",
+    "localidad":"Florencio Varela",
+    "provincia":"Buenos Aires",
+    "potencia_s":6.25,
+    "altura_snm":"254.85"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.1517,-34.5494 ]
+    },
+    "properties": {
+    "sitio":"Luján",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Luján",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.8651,-36.8481 ]
+    },
+    "properties": {
+    "sitio":"Maipú",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Maipú",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.7486,-36.7237 ]
+    },
+    "properties": {
+    "sitio":"Mar de Ajó",
+    "estructura":"FIJA",
+    "est_arsat":"EN OBRA",
+    "tipo_edt":"A",
+    "localidad":"Mar de Ajó",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.5304,-37.8878 ]
+    },
+    "properties": {
+    "sitio":"Mar del Plata",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Mar del Plata",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"126.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.2986,-34.9776 ]
+    },
+    "properties": {
+    "sitio":"Navarro",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Navarro",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.3627,-36.8783 ]
+    },
+    "properties": {
+    "sitio":"Olavarría",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Olavarría",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.8967,-37.1176 ]
+    },
+    "properties": {
+    "sitio":"Pinamar",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Pinamar",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.795,-35.4308 ]
+    },
+    "properties": {
+    "sitio":"San Miguel del Monte",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Miguel del Monte",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.2009,-33.3389 ]
+    },
+    "properties": {
+    "sitio":"San Nicolás",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Nicolás de los Arroyos",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"102.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.063,-37.2734 ]
+    },
+    "properties": {
+    "sitio":"Tandil",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Tandil",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"64.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.7349,-35.9144 ]
+    },
+    "properties": {
+    "sitio":"Trenque Lauquen",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Trenque Lauquen",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.5585,-34.498 ]
+    },
+    "properties": {
+    "sitio":"Vedia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Vedia",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.5122,-34.5616 ]
+    },
+    "properties": {
+    "sitio":"Villa Martelli",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Vicente López",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"170"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.8644,-35.938 ]
+    },
+    "properties": {
+    "sitio":"Guerrero",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Guerrero",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.5678,-34.6631 ]
+    },
+    "properties": {
+    "sitio":"La Matanza",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"La Matanza",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"70.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.9747,-34.9426 ]
+    },
+    "properties": {
+    "sitio":"La Plata",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"La Plata",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.0758,-36.0264 ]
+    },
+    "properties": {
+    "sitio":"Las Flores",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Las Flores",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.5056,-34.8604 ]
+    },
+    "properties": {
+    "sitio":"Lincoln",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"Lincoln",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.0022,-35.02 ]
+    },
+    "properties": {
+    "sitio":"Los Toldos",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Los Toldos",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.8667,-35.45 ]
+    },
+    "properties": {
+    "sitio":"9 de Julio",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"9 de Julio",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.7327,-35.0254 ]
+    },
+    "properties": {
+    "sitio":"Cañuelas",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Cañuelas",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2302,-37.8169 ]
+    },
+    "properties": {
+    "sitio":"Balcarce",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Balcarce",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.29921,-38.696961 ]
+    },
+    "properties": {
+    "sitio":"Bahia Blanca",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Bahia Blanca",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.5656,-35.2686 ]
+    },
+    "properties": {
+    "sitio":"Vieytes",
+    "estructura":"FIJA",
+    "est_arsat":"EN OBRA",
+    "tipo_edt":"A",
+    "localidad":"Vieytes",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.115944,-36.217769 ]
+    },
+    "properties": {
+    "sitio":"San Carlos de Bolivar",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"D+",
+    "localidad":"San Carlos de Bolivar",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.718654,-38.576127 ]
+    },
+    "properties": {
+    "sitio":"Necochea",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Necochea",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.4267,-31.4142 ]
+    },
+    "properties": {
+    "sitio":"Córdoba Capital - Cerro Mogote",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Córdoba",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"54.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.537,-33.7843 ]
+    },
+    "properties": {
+    "sitio":"Baradero",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Baradero",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.4429,-34.2628 ]
+    },
+    "properties": {
+    "sitio":"San Antonio de Areco",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Antonio de Areco",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2356,-32.4617 ]
+    },
+    "properties": {
+    "sitio":"Concepción del Uruguay",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"C",
+    "localidad":"Concepción del Uruguay",
+    "provincia":"Entre Rios",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.54,-33.0508 ]
+    },
+    "properties": {
+    "sitio":"Gualeguaychú",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Gualeguaychú",
+    "provincia":"Entre Rios",
+    "potencia_s":1,
+    "altura_snm":"77.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.5396,-31.7579 ]
+    },
+    "properties": {
+    "sitio":"Paraná",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Paraná",
+    "provincia":"Entre Rios",
+    "potencia_s":1,
+    "altura_snm":"154.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.1242,-32.6148 ]
+    },
+    "properties": {
+    "sitio":"Victoria",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Victoria",
+    "provincia":"Entre Rios",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.2879,-36.666 ]
+    },
+    "properties": {
+    "sitio":"Santa Rosa",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Santa Rosa",
+    "provincia":"La Pampa",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.413,-32.8171 ]
+    },
+    "properties": {
+    "sitio":"Cañada de Gómez",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Cañada de Gómez",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.8976,-29.9364 ]
+    },
+    "properties": {
+    "sitio":"Ceres",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Ceres",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.9428,-31.46 ]
+    },
+    "properties": {
+    "sitio":"Esperanza",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"Esperanza",
+    "provincia":"Santa Fe",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.0655,-31.4585 ]
+    },
+    "properties": {
+    "sitio":"Frontera",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Frontera",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.4703,-31.2261 ]
+    },
+    "properties": {
+    "sitio":"Rafaela",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Rafaela",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.6299,-33.0141 ]
+    },
+    "properties": {
+    "sitio":"Rosario",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Rosario",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.602,-34.5097 ]
+    },
+    "properties": {
+    "sitio":"Campo de Mayo",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Campo de Mayo",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"112.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.5093,-34.5935 ]
+    },
+    "properties": {
+    "sitio":"Villa Devoto",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"Diferencial",
+    "localidad":"Villa Devoto",
+    "provincia":"CABA",
+    "potencia_s":6.25,
+    "altura_snm":"89.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.7489,-27.5921 ]
+    },
+    "properties": {
+    "sitio":"Villa Angela",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Villa Angela",
+    "provincia":"Chaco",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.0617,-26.9374 ]
+    },
+    "properties": {
+    "sitio":"Machagai",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"Machagai",
+    "provincia":"Chaco",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.0078,-28.5119 ]
+    },
+    "properties": {
+    "sitio":"Bella Vista",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Bella Vista",
+    "provincia":"Corrientes",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.6752,-27.5683 ]
+    },
+    "properties": {
+    "sitio":"Ituzaingó",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"Ituzaingó",
+    "provincia":"Corrientes",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.7192,-25.3207 ]
+    },
+    "properties": {
+    "sitio":"Clorinda",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Clorinda",
+    "provincia":"Formosa",
+    "potencia_s":0.5,
+    "altura_snm":"42.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.1634,-26.1292 ]
+    },
+    "properties": {
+    "sitio":"Formosa",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Formosa",
+    "provincia":"Formosa",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2757,-25.1195 ]
+    },
+    "properties": {
+    "sitio":"Laguna Blanca",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Laguna Blanca",
+    "provincia":"Formosa",
+    "potencia_s":1,
+    "altura_snm":"77.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.0766,-27.4793 ]
+    },
+    "properties": {
+    "sitio":"Oberá (Leandro N. Alem)",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Oberá (Leandro N. Alem)",
+    "provincia":"Misiones",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.8613,-27.4781 ]
+    },
+    "properties": {
+    "sitio":"Posadas",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Posadas",
+    "provincia":"Misiones",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.5137,-25.653 ]
+    },
+    "properties": {
+    "sitio":"Puerto Iguazú",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Puerto Iguazú",
+    "provincia":"Misiones",
+    "potencia_s":1,
+    "altura_snm":"100.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.6541,-29.1341 ]
+    },
+    "properties": {
+    "sitio":"Reconquista",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Reconquista",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.334,-24.1864 ]
+    },
+    "properties": {
+    "sitio":"Jujuy",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"San Salvador de Jujuy",
+    "provincia":"Jujuy",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.8121,-22.5282 ]
+    },
+    "properties": {
+    "sitio":"Tartagal",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"D+",
+    "localidad":"Tartagal",
+    "provincia":"Salta",
+    "potencia_s":0.3,
+    "altura_snm":"70.44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.425,-27.6358 ]
+    },
+    "properties": {
+    "sitio":"Quimili",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Quimili",
+    "provincia":"Santiago del Estero",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.2414,-27.8818 ]
+    },
+    "properties": {
+    "sitio":"Santiago del Estero",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Santiago del Estero",
+    "provincia":"Santiago del Estero",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.3766,-26.8479 ]
+    },
+    "properties": {
+    "sitio":"Tucumán",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Tucumán",
+    "provincia":"Tucumán",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.8731,-29.4262 ]
+    },
+    "properties": {
+    "sitio":"La Rioja",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"La Rioja",
+    "provincia":"La Rioja",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9348,-32.8367 ]
+    },
+    "properties": {
+    "sitio":"Mendoza",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Mendoza",
+    "provincia":"Mendoza",
+    "potencia_s":1,
+    "altura_snm":"53.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.6565,-35.0333 ]
+    },
+    "properties": {
+    "sitio":"General Alvear",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"General Alvear",
+    "provincia":"Mendoza",
+    "potencia_s":1,
+    "altura_snm":"52.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.0972,-31.418 ]
+    },
+    "properties": {
+    "sitio":"Concordia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Concordia",
+    "provincia":"Entre Rios",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.0769,-27.3643 ]
+    },
+    "properties": {
+    "sitio":"Resistencia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Resistencia",
+    "provincia":"Chaco",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.8209,-34.4317 ]
+    },
+    "properties": {
+    "sitio":"Pilar",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Pilar",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"190"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.197,-31.357 ]
+    },
+    "properties": {
+    "sitio":"Cordoba Capital II",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"A",
+    "localidad":"Córdoba",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"125.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.7504,-31.6961 ]
+    },
+    "properties": {
+    "sitio":"Santo Tomé - Santa Fe",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Santo Tomé",
+    "provincia":"Santa Fe",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.3947,-24.7822 ]
+    },
+    "properties": {
+    "sitio":"Salta",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Salta",
+    "provincia":"Salta",
+    "potencia_s":1,
+    "altura_snm":"21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.3149,-32.6714 ]
+    },
+    "properties": {
+    "sitio":"Cerro Leones",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Cerro Leones",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"77.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.1638,-33.3854 ]
+    },
+    "properties": {
+    "sitio":"Tupungato",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Tupungato",
+    "provincia":"Mendoza",
+    "potencia_s":1,
+    "altura_snm":"136.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.7151,-30.1718 ]
+    },
+    "properties": {
+    "sitio":"Jachal",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"San José de Jachal",
+    "provincia":"San Juan",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.6296,-31.5169 ]
+    },
+    "properties": {
+    "sitio":"San Juan",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Juan",
+    "provincia":"San Juan",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.2868,-33.2955 ]
+    },
+    "properties": {
+    "sitio":"San Luis",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Luis",
+    "provincia":"San Luis",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.0554,-38.9386 ]
+    },
+    "properties": {
+    "sitio":"Neuquén",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Neuquén",
+    "provincia":"Neuquén",
+    "potencia_s":1,
+    "altura_snm":"48.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.0345,-42.7248 ]
+    },
+    "properties": {
+    "sitio":"Puerto Madryn",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Puerto Madryn",
+    "provincia":"Chubut",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.4884,-45.8546 ]
+    },
+    "properties": {
+    "sitio":"Comodoro Rivadavia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Comodoro Rivadavia",
+    "provincia":"Chubut",
+    "potencia_s":1,
+    "altura_snm":"39.32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3438,-42.9061 ]
+    },
+    "properties": {
+    "sitio":"Esquel",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Esquel",
+    "provincia":"Chubut",
+    "potencia_s":1,
+    "altura_snm":"39.7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.9124,-49.9637 ]
+    },
+    "properties": {
+    "sitio":"Comandante Piedrabuena",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Comandante Luis Piedrabuena",
+    "provincia":"Santa Cruz",
+    "potencia_s":0.5,
+    "altura_snm":"41.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.289,-50.3578 ]
+    },
+    "properties": {
+    "sitio":"El Calafate",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"El Calafate",
+    "provincia":"Santa Cruz",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.8735,-47.7427 ]
+    },
+    "properties": {
+    "sitio":"Puerto Deseado",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Puerto Deseado",
+    "provincia":"Santa Cruz",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.7453,-49.3118 ]
+    },
+    "properties": {
+    "sitio":"Puerto San Julián",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Puerto San Julián",
+    "provincia":"Santa Cruz",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.2219,-54.8011 ]
+    },
+    "properties": {
+    "sitio":"Ushuaia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Ushuaia",
+    "provincia":"Tierra del Fuego",
+    "potencia_s":1,
+    "altura_snm":"71.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.266677,-34.629162 ]
+    },
+    "properties": {
+    "sitio":"San Rafael",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Rafael",
+    "provincia":"Mendoza",
+    "potencia_s":0.3,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.1513,-43.2805 ]
+    },
+    "properties": {
+    "sitio":"Rawson/Trelew",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Rawson",
+    "provincia":"Chubut",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.766111,-28.457212 ]
+    },
+    "properties": {
+    "sitio":"Catamarca",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"San Fernando del Valle de Catamarca",
+    "provincia":"Catamarca",
+    "potencia_s":0.3,
+    "altura_snm":"19.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.9908,-34.8554 ]
+    },
+    "properties": {
+    "sitio":"Chivilcoy",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Chivilcoy",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.88532721,-35.80706124 ]
+    },
+    "properties": {
+    "sitio":"Pehuajó",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Pehuajó",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.73704433,-31.6135965 ]
+    },
+    "properties": {
+    "sitio":"Santa Fe",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"",
+    "localidad":"Santa Fe",
+    "provincia":"Santa Fe",
+    "potencia_s":0.3,
+    "altura_snm":"33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.51675006,-31.50576302 ]
+    },
+    "properties": {
+    "sitio":"San Juan II",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"FIJA",
+    "localidad":"San Juan",
+    "provincia":"San Juan",
+    "potencia_s":0.3,
+    "altura_snm":"33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.1925,-32.4654 ]
+    },
+    "properties": {
+    "sitio":"Villa María",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Villa María",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"150.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.8431,-28.4551 ]
+    },
+    "properties": {
+    "sitio":"Añatuya",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Añatuya",
+    "provincia":"Santiago del Estero",
+    "potencia_s":0.3,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0419,-28.5865 ]
+    },
+    "properties": {
+    "sitio":"Santo Tomé - Corrientes",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Santo Tomé",
+    "provincia":"Corrientes",
+    "potencia_s":1,
+    "altura_snm":"145.5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.38146643,-34.61224207 ]
+    },
+    "properties": {
+    "sitio":"Ministerio de Obras Públicas",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"Diferencial",
+    "localidad":"Ciudad de Buenos Aires",
+    "provincia":"Ciudad de Buenos Aires",
+    "potencia_s":5,
+    "altura_snm":"155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.1474,-32.1468 ]
+    },
+    "properties": {
+    "sitio":"Río Tercero",
+    "estructura":"FIJA",
+    "est_arsat":"FASE III",
+    "tipo_edt":"B",
+    "localidad":"Río Tercero",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.9887,-46.8054 ]
+    },
+    "properties": {
+    "sitio":"Pico Truncado",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"C",
+    "localidad":"Pico Truncado",
+    "provincia":"Santa Cruz",
+    "potencia_s":0.5,
+    "altura_snm":"40.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5833,-42.0516 ]
+    },
+    "properties": {
+    "sitio":"Lago Puelo",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Lago Puelo",
+    "provincia":"Chubut",
+    "potencia_s":1,
+    "altura_snm":"46.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.7453,-36.3792 ]
+    },
+    "properties": {
+    "sitio":"San Clemente del Tuyú",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"San Clemente",
+    "provincia":"Buenos Aires",
+    "potencia_s":1,
+    "altura_snm":"148.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -65.2346,-31.9789 ]
+    },
+    "properties": {
+    "sitio":"Villa Dolores",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Villa Dolores",
+    "provincia":"Córdoba",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.5144,-46.4579 ]
+    },
+    "properties": {
+    "sitio":"Caleta Olivia",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Caleta Olivia",
+    "provincia":"Santa Cruz",
+    "potencia_s":1,
+    "altura_snm":"70.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.2748,-39.0302 ]
+    },
+    "properties": {
+    "sitio":"Mainque",
+    "estructura":"FIJA",
+    "est_arsat":"EN OBRA",
+    "tipo_edt":"A",
+    "localidad":"Mainque",
+    "provincia":"Río Negro",
+    "potencia_s":1,
+    "altura_snm":"149.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9258,-40.707 ]
+    },
+    "properties": {
+    "sitio":"San Antonio Oeste",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"San Antonio Oeste",
+    "provincia":"Río Negro",
+    "potencia_s":1,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0523,-40.7934 ]
+    },
+    "properties": {
+    "sitio":"Viedma",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"A",
+    "localidad":"Viedma",
+    "provincia":"Río Negro",
+    "potencia_s":1,
+    "altura_snm":"95.2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2763,-41.1342 ]
+    },
+    "properties": {
+    "sitio":"Bariloche",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"San Carlos de Bariloche",
+    "provincia":"Río Negro",
+    "potencia_s":1,
+    "altura_snm":"72.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.46583875,-34.58794039 ]
+    },
+    "properties": {
+    "sitio":"Chacabuco",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Chacabuco",
+    "provincia":"Buenos Aires",
+    "potencia_s":0.3,
+    "altura_snm":"76.9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.2317,-51.6701 ]
+    },
+    "properties": {
+    "sitio":"Río Gallegos",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"B",
+    "localidad":"Río Gallegos",
+    "provincia":"Santa Cruz",
+    "potencia_s":1,
+    "altura_snm":"42.75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.38682675,-33.10647325 ]
+    },
+    "properties": {
+    "sitio":"Río Cuarto",
+    "estructura":"FIJA",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"",
+    "localidad":"Río Cuarto",
+    "provincia":"Córdoba",
+    "potencia_s":0.3,
+    "altura_snm":"33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.348056,-51.537017 ]
+    },
+    "properties": {
+    "sitio":"Río Turbio",
+    "estructura":"UTT",
+    "est_arsat":"OPERATIVA",
+    "tipo_edt":"",
+    "localidad":"Río Turbio",
+    "provincia":"Santa Cruz",
+    "potencia_s":0.3,
+    "altura_snm":"NA"
+    }
+  }
+]
+}

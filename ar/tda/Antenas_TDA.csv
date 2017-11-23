@@ -1,0 +1,117 @@
+"sitio","estructura","est_arsat","tipo_edt","localidad","provincia","potencia_s","altura_snm","longitud","latitud"
+"Arrecifes","FIJA","OPERATIVA","B","Arrecifes","Buenos Aires",1,71.2,-60.0717,-34.0642
+"Azul","FIJA","OPERATIVA","A","Azul","Buenos Aires",1,121.9,-59.8795,-36.7319
+"Campana","FIJA","OPERATIVA","A","Campana","Buenos Aires",1,150.75,-58.9602,-34.2374
+"Chapadmalal","FIJA","FASE III","A","Chapadmalal","Buenos Aires",1,148.9,-57.6834,-38.1952
+"Chascomús","FIJA","OPERATIVA","A","Chascomús","Buenos Aires",1,149.2,-57.9658,-35.5866
+"Coronel Brandsen","FIJA","OPERATIVA","A","Coronel Brandsen","Buenos Aires",1,150.75,-58.2455,-35.1194
+"Coronel Suarez","FIJA","OPERATIVA","A","Coronel Suarez","Buenos Aires",1,148.9,-61.9386,-37.4996
+"Coronel Vidal","FIJA","FASE III","A","Coronel Vidal","Buenos Aires",1,149.2,-57.7336,-37.4269
+"Dolores","FIJA","OPERATIVA","A","Dolores","Buenos Aires",1,150.75,-57.6855,-36.2719
+"Florencio Varela","FIJA","FASE III","Diferencial","Florencio Varela","Buenos Aires",6.25,254.85,-58.2025,-34.8394
+"Luján","FIJA","OPERATIVA","A","Luján","Buenos Aires",1,150.75,-59.1517,-34.5494
+"Maipú","FIJA","FASE III","A","Maipú","Buenos Aires",1,149.2,-57.8651,-36.8481
+"Mar de Ajó","FIJA","EN OBRA","A","Mar de Ajó","Buenos Aires",1,148.9,-56.7486,-36.7237
+"Mar del Plata","FIJA","OPERATIVA","A","Mar del Plata","Buenos Aires",1,126.75,-57.5304,-37.8878
+"Navarro","FIJA","OPERATIVA","A","Navarro","Buenos Aires",1,150.75,-59.2986,-34.9776
+"Olavarría","FIJA","OPERATIVA","A","Olavarría","Buenos Aires",1,149.2,-60.3627,-36.8783
+"Pinamar","FIJA","OPERATIVA","A","Pinamar","Buenos Aires",1,150.75,-56.8967,-37.1176
+"San Miguel del Monte","FIJA","OPERATIVA","A","San Miguel del Monte","Buenos Aires",1,148.9,-58.795,-35.4308
+"San Nicolás","FIJA","OPERATIVA","A","San Nicolás de los Arroyos","Buenos Aires",1,102.75,-60.2009,-33.3389
+"Tandil","FIJA","FASE III","B","Tandil","Buenos Aires",1,64.9,-59.063,-37.2734
+"Trenque Lauquen","FIJA","OPERATIVA","A","Trenque Lauquen","Buenos Aires",1,149.2,-62.7349,-35.9144
+"Vedia","FIJA","OPERATIVA","C","Vedia","Buenos Aires",0.5,40.9,-61.5585,-34.498
+"Villa Martelli","FIJA","OPERATIVA","A","Vicente López","Buenos Aires",1,170,-58.5122,-34.5616
+"Guerrero","FIJA","FASE III","A","Guerrero","Buenos Aires",1,149.2,-57.8644,-35.938
+"La Matanza","FIJA","OPERATIVA","B","La Matanza","Buenos Aires",1,70.9,-58.5678,-34.6631
+"La Plata","FIJA","OPERATIVA","A","La Plata","Buenos Aires",1,150.75,-57.9747,-34.9426
+"Las Flores","FIJA","OPERATIVA","A","Las Flores","Buenos Aires",1,149.2,-59.0758,-36.0264
+"Lincoln","FIJA","FASE III","D+","Lincoln","Buenos Aires",0.3,70.44,-61.5056,-34.8604
+"Los Toldos","FIJA","OPERATIVA","C","Los Toldos","Buenos Aires",0.5,40.9,-61.0022,-35.02
+"9 de Julio","FIJA","FASE III","D+","9 de Julio","Buenos Aires",0.3,70.44,-60.8667,-35.45
+"Cañuelas","FIJA","OPERATIVA","A","Cañuelas","Buenos Aires",1,150.75,-58.7327,-35.0254
+"Balcarce","FIJA","OPERATIVA","A","Balcarce","Buenos Aires",1,148.9,-58.2302,-37.8169
+"Bahia Blanca","UTT","OPERATIVA","A","Bahia Blanca","Buenos Aires",0.3,148.9,-62.29921,-38.696961
+"Vieytes","FIJA","EN OBRA","A","Vieytes","Buenos Aires",1,148.9,-57.5656,-35.2686
+"San Carlos de Bolivar","FIJA","OPERATIVA","D+","San Carlos de Bolivar","Buenos Aires",0.3,70.44,-61.115944,-36.217769
+"Necochea","UTT","OPERATIVA","A","Necochea","Buenos Aires",0.3,148.9,-58.718654,-38.576127
+"Córdoba Capital - Cerro Mogote","FIJA","OPERATIVA","B","Córdoba","Córdoba",1,54.75,-64.4267,-31.4142
+"Baradero","FIJA","OPERATIVA","A","Baradero","Buenos Aires",1,150.75,-59.537,-33.7843
+"San Antonio de Areco","FIJA","OPERATIVA","A","San Antonio de Areco","Buenos Aires",1,148.9,-59.4429,-34.2628
+"Concepción del Uruguay","FIJA","FASE III","C","Concepción del Uruguay","Entre Rios",0.5,40.9,-58.2356,-32.4617
+"Gualeguaychú","FIJA","OPERATIVA","A","Gualeguaychú","Entre Rios",1,77.2,-58.54,-33.0508
+"Paraná","FIJA","OPERATIVA","A","Paraná","Entre Rios",1,154.9,-60.5396,-31.7579
+"Victoria","FIJA","FASE III","B","Victoria","Entre Rios",1,76.9,-60.1242,-32.6148
+"Santa Rosa","FIJA","OPERATIVA","A","Santa Rosa","La Pampa",1,150.75,-64.2879,-36.666
+"Cañada de Gómez","FIJA","OPERATIVA","A","Cañada de Gómez","Santa Fe",1,148.9,-61.413,-32.8171
+"Ceres","FIJA","OPERATIVA","A","Ceres","Santa Fe",1,148.9,-61.8976,-29.9364
+"Esperanza","FIJA","FASE III","D+","Esperanza","Santa Fe",0.3,70.44,-60.9428,-31.46
+"Frontera","FIJA","OPERATIVA","A","Frontera","Santa Fe",1,148.9,-62.0655,-31.4585
+"Rafaela","FIJA","OPERATIVA","A","Rafaela","Santa Fe",1,148.9,-61.4703,-31.2261
+"Rosario","FIJA","OPERATIVA","A","Rosario","Santa Fe",1,150.75,-60.6299,-33.0141
+"Campo de Mayo","FIJA","FASE III","A","Campo de Mayo","Buenos Aires",1,112.9,-58.602,-34.5097
+"Villa Devoto","FIJA","FASE III","Diferencial","Villa Devoto","CABA",6.25,89.2,-58.5093,-34.5935
+"Villa Angela","FIJA","OPERATIVA","B","Villa Angela","Chaco",1,76.9,-60.7489,-27.5921
+"Machagai","FIJA","FASE III","D+","Machagai","Chaco",0.3,70.44,-60.0617,-26.9374
+"Bella Vista","FIJA","FASE III","A","Bella Vista","Corrientes",1,148.9,-59.0078,-28.5119
+"Ituzaingó","FIJA","FASE III","D+","Ituzaingó","Corrientes",0.3,70.44,-56.6752,-27.5683
+"Clorinda","FIJA","OPERATIVA","C","Clorinda","Formosa",0.5,42.75,-57.7192,-25.3207
+"Formosa","FIJA","OPERATIVA","B","Formosa","Formosa",1,72.75,-58.1634,-26.1292
+"Laguna Blanca","FIJA","OPERATIVA","A","Laguna Blanca","Formosa",1,77.2,-58.2757,-25.1195
+"Oberá (Leandro N. Alem)","FIJA","FASE III","A","Oberá (Leandro N. Alem)","Misiones",1,148.9,-55.0766,-27.4793
+"Posadas","FIJA","OPERATIVA","A","Posadas","Misiones",1,150.75,-55.8613,-27.4781
+"Puerto Iguazú","FIJA","FASE III","A","Puerto Iguazú","Misiones",1,100.9,-54.5137,-25.653
+"Reconquista","FIJA","FASE III","B","Reconquista","Santa Fe",1,76.9,-59.6541,-29.1341
+"Jujuy","FIJA","OPERATIVA","B","San Salvador de Jujuy","Jujuy",1,72.75,-65.334,-24.1864
+"Tartagal","FIJA","FASE III","D+","Tartagal","Salta",0.3,70.44,-63.8121,-22.5282
+"Quimili","FIJA","OPERATIVA","C","Quimili","Santiago del Estero",0.5,40.9,-62.425,-27.6358
+"Santiago del Estero","FIJA","OPERATIVA","A","Santiago del Estero","Santiago del Estero",1,150.75,-64.2414,-27.8818
+"Tucumán","FIJA","OPERATIVA","B","Tucumán","Tucumán",1,72.75,-65.3766,-26.8479
+"La Rioja","FIJA","OPERATIVA","A","La Rioja","La Rioja",1,150.75,-66.8731,-29.4262
+"Mendoza","FIJA","OPERATIVA","B","Mendoza","Mendoza",1,53.75,-68.9348,-32.8367
+"General Alvear","FIJA","OPERATIVA","B","General Alvear","Mendoza",1,52.9,-67.6565,-35.0333
+"Concordia","FIJA","OPERATIVA","A","Concordia","Entre Rios",1,148.9,-58.0972,-31.418
+"Resistencia","FIJA","OPERATIVA","A","Resistencia","Chaco",1,150.75,-59.0769,-27.3643
+"Pilar","FIJA","FASE III","A","Pilar","Buenos Aires",1,190,-58.8209,-34.4317
+"Cordoba Capital II","FIJA","FASE III","A","Córdoba","Córdoba",1,125.9,-64.197,-31.357
+"Santo Tomé - Santa Fe","FIJA","OPERATIVA","B","Santo Tomé","Santa Fe",1,72.75,-60.7504,-31.6961
+"Salta","FIJA","OPERATIVA","B","Salta","Salta",1,21,-65.3947,-24.7822
+"Cerro Leones","FIJA","OPERATIVA","A","Cerro Leones","Córdoba",1,77.2,-62.3149,-32.6714
+"Tupungato","FIJA","OPERATIVA","A","Tupungato","Mendoza",1,136.9,-69.1638,-33.3854
+"Jachal","FIJA","OPERATIVA","B","San José de Jachal","San Juan",1,76.9,-68.7151,-30.1718
+"San Juan","FIJA","OPERATIVA","A","San Juan","San Juan",1,150.75,-68.6296,-31.5169
+"San Luis","FIJA","OPERATIVA","A","San Luis","San Luis",1,149.2,-66.2868,-33.2955
+"Neuquén","FIJA","OPERATIVA","B","Neuquén","Neuquén",1,48.75,-68.0554,-38.9386
+"Puerto Madryn","FIJA","FASE III","B","Puerto Madryn","Chubut",1,72.75,-65.0345,-42.7248
+"Comodoro Rivadavia","FIJA","OPERATIVA","B","Comodoro Rivadavia","Chubut",1,39.32,-67.4884,-45.8546
+"Esquel","FIJA","FASE III","B","Esquel","Chubut",1,39.7,-71.3438,-42.9061
+"Comandante Piedrabuena","FIJA","OPERATIVA","C","Comandante Luis Piedrabuena","Santa Cruz",0.5,41.2,-68.9124,-49.9637
+"El Calafate","FIJA","FASE III","B","El Calafate","Santa Cruz",1,72.75,-72.289,-50.3578
+"Puerto Deseado","FIJA","OPERATIVA","C","Puerto Deseado","Santa Cruz",0.5,40.9,-65.8735,-47.7427
+"Puerto San Julián","FIJA","OPERATIVA","C","Puerto San Julián","Santa Cruz",0.5,40.9,-67.7453,-49.3118
+"Ushuaia","FIJA","OPERATIVA","B","Ushuaia","Tierra del Fuego",1,71.2,-68.2219,-54.8011
+"San Rafael","UTT","OPERATIVA","A","San Rafael","Mendoza",0.3,148.9,-68.266677,-34.629162
+"Rawson/Trelew","FIJA","OPERATIVA","A","Rawson","Chubut",1,148.9,-65.1513,-43.2805
+"Catamarca","UTT","OPERATIVA","B","San Fernando del Valle de Catamarca","Catamarca",0.3,19.5,-65.766111,-28.457212
+"Chivilcoy","FIJA","OPERATIVA","C","Chivilcoy","Buenos Aires",0.5,40.9,-59.9908,-34.8554
+"Pehuajó","UTT","OPERATIVA","B","Pehuajó","Buenos Aires",0.3,76.9,-61.88532721,-35.80706124
+"Santa Fe","FIJA","FASE III","","Santa Fe","Santa Fe",0.3,33,-60.73704433,-31.6135965
+"San Juan II","FIJA","FASE III","FIJA","San Juan","San Juan",0.3,33,-68.51675006,-31.50576302
+"Villa María","FIJA","OPERATIVA","A","Villa María","Córdoba",1,150.75,-63.1925,-32.4654
+"Añatuya","UTT","OPERATIVA","B","Añatuya","Santiago del Estero",0.3,76.9,-62.8431,-28.4551
+"Santo Tomé - Corrientes","FIJA","OPERATIVA","A","Santo Tomé","Corrientes",1,145.5,-56.0419,-28.5865
+"Ministerio de Obras Públicas","FIJA","OPERATIVA","Diferencial","Ciudad de Buenos Aires","Ciudad de Buenos Aires",5,155,-58.38146643,-34.61224207
+"Río Tercero","FIJA","FASE III","B","Río Tercero","Córdoba",1,76.9,-64.1474,-32.1468
+"Pico Truncado","FIJA","OPERATIVA","C","Pico Truncado","Santa Cruz",0.5,40.9,-67.9887,-46.8054
+"Lago Puelo","FIJA","OPERATIVA","B","Lago Puelo","Chubut",1,46.9,-71.5833,-42.0516
+"San Clemente del Tuyú","FIJA","OPERATIVA","A","San Clemente","Buenos Aires",1,148.9,-56.7453,-36.3792
+"Villa Dolores","FIJA","OPERATIVA","A","Villa Dolores","Córdoba",1,149.2,-65.2346,-31.9789
+"Caleta Olivia","FIJA","OPERATIVA","B","Caleta Olivia","Santa Cruz",1,70.9,-67.5144,-46.4579
+"Mainque","FIJA","EN OBRA","A","Mainque","Río Negro",1,149.2,-67.2748,-39.0302
+"San Antonio Oeste","FIJA","OPERATIVA","B","San Antonio Oeste","Río Negro",1,76.9,-64.9258,-40.707
+"Viedma","FIJA","OPERATIVA","A","Viedma","Río Negro",1,95.2,-63.0523,-40.7934
+"Bariloche","FIJA","OPERATIVA","B","San Carlos de Bariloche","Río Negro",1,72.75,-71.2763,-41.1342
+"Chacabuco","FIJA","OPERATIVA","B","Chacabuco","Buenos Aires",0.3,76.9,-60.46583875,-34.58794039
+"Río Gallegos","FIJA","OPERATIVA","B","Río Gallegos","Santa Cruz",1,42.75,-69.2317,-51.6701
+"Río Cuarto","FIJA","OPERATIVA","","Río Cuarto","Córdoba",0.3,33,-64.38682675,-33.10647325
+"Río Turbio","UTT","OPERATIVA","","Río Turbio","Santa Cruz",0.3,NA,-72.348056,-51.537017
