@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<head>
+  <title>FN</title>
+  <meta charset="utf-8">
+
+  <script src="//cdn.jsdelivr.net/npm/vega@4.2.0/build/vega.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc2/build/vega-lite.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/vega-embed@3.18.2/build/vega-embed.js"></script>
+
+  <style media="screen">
+    /* Add space between Vega-Embed links  */
+    .vega-actions a {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Florence Nightingale</h1>
+  <h2>from altair (python) to Vega Lite (javascript)</h2>
+
+  <div id="vis"></div>
+
+  <script>
+  var h = screen.height;
+  var w = screen.width;
+    
+  var vlSpec = {
+  "config": {"view": {"width": 400, "height": 300}},
+  "encoding": {
+    "color": {
+      "scale": {"range": ["#2b2321", "#e4b4b0", "#b7c0c9"]},
+      "type": "nominal",
+      "field": "variable"
+    },
+    "x": {
+      "type": "temporal",
+      "axis": {"format": "%b %Y"},
+      "field": "date",
+      "timeUnit": "yearmonth"
+    },
+    "y": {"type": "quantitative", "field": "value"}
+  },
+  "data": {"name": "data-ecb436adae7d9cba94e06e25cb73698f"},
+  "mark": {"type": "bar", "size": 14},
+  "$schema": "https://vega.github.io/schema/vega-lite/v2.6.0.json",
+  "datasets": {
+    "data-ecb436adae7d9cba94e06e25cb73698f": [
+      {
+        "date": "1854-04-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 1
+      },
+      {
+        "date": "1854-05-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 12
+      },
+      {
+        "date": "1854-06-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 11
+      },
+      {
+        "date": "1854-07-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 359
+      },
+      {
+        "date": "1854-08-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 828
+      },
+      {
+        "date": "1854-09-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 788
+      },
+      {
+        "date": "1854-10-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 503
+      },
+      {
+        "date": "1854-11-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 844
+      },
+      {
+        "date": "1854-12-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 1725
+      },
+      {
+        "date": "1855-01-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 2761
+      },
+      {
+        "date": "1855-02-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 2120
+      },
+      {
+        "date": "1855-03-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 1205
+      },
+      {
+        "date": "1855-04-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 477
+      },
+      {
+        "date": "1855-05-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 508
+      },
+      {
+        "date": "1855-06-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 802
+      },
+      {
+        "date": "1855-07-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 382
+      },
+      {
+        "date": "1855-08-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 483
+      },
+      {
+        "date": "1855-09-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 189
+      },
+      {
+        "date": "1855-10-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 128
+      },
+      {
+        "date": "1855-11-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 178
+      },
+      {
+        "date": "1855-12-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 91
+      },
+      {
+        "date": "1856-01-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 42
+      },
+      {
+        "date": "1856-02-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 24
+      },
+      {
+        "date": "1856-03-01T00:00:00",
+        "variable": "Deaths - Zymotic diseases",
+        "value": 15
+      },
+      {
+        "date": "1854-04-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1854-05-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1854-06-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1854-07-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1854-08-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 1
+      },
+      {
+        "date": "1854-09-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 81
+      },
+      {
+        "date": "1854-10-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 132
+      },
+      {
+        "date": "1854-11-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 287
+      },
+      {
+        "date": "1854-12-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 114
+      },
+      {
+        "date": "1855-01-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 83
+      },
+      {
+        "date": "1855-02-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 42
+      },
+      {
+        "date": "1855-03-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 32
+      },
+      {
+        "date": "1855-04-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 48
+      },
+      {
+        "date": "1855-05-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 49
+      },
+      {
+        "date": "1855-06-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 209
+      },
+      {
+        "date": "1855-07-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 134
+      },
+      {
+        "date": "1855-08-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 164
+      },
+      {
+        "date": "1855-09-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 276
+      },
+      {
+        "date": "1855-10-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 53
+      },
+      {
+        "date": "1855-11-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 33
+      },
+      {
+        "date": "1855-12-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 18
+      },
+      {
+        "date": "1856-01-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 2
+      },
+      {
+        "date": "1856-02-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1856-03-01T00:00:00",
+        "variable": "Deaths - Wounds & injuries",
+        "value": 0
+      },
+      {
+        "date": "1854-04-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 5
+      },
+      {
+        "date": "1854-05-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 9
+      },
+      {
+        "date": "1854-06-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 6
+      },
+      {
+        "date": "1854-07-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 23
+      },
+      {
+        "date": "1854-08-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 30
+      },
+      {
+        "date": "1854-09-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 70
+      },
+      {
+        "date": "1854-10-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 128
+      },
+      {
+        "date": "1854-11-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 106
+      },
+      {
+        "date": "1854-12-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 131
+      },
+      {
+        "date": "1855-01-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 324
+      },
+      {
+        "date": "1855-02-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 361
+      },
+      {
+        "date": "1855-03-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 172
+      },
+      {
+        "date": "1855-04-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 57
+      },
+      {
+        "date": "1855-05-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 37
+      },
+      {
+        "date": "1855-06-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 31
+      },
+      {
+        "date": "1855-07-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 33
+      },
+      {
+        "date": "1855-08-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 25
+      },
+      {
+        "date": "1855-09-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 20
+      },
+      {
+        "date": "1855-10-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 18
+      },
+      {
+        "date": "1855-11-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 32
+      },
+      {
+        "date": "1855-12-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 28
+      },
+      {
+        "date": "1856-01-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 48
+      },
+      {
+        "date": "1856-02-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 19
+      },
+      {
+        "date": "1856-03-01T00:00:00",
+        "variable": "Deaths - All other causes",
+        "value": 35
+      }
+    ]
+  }
+};
+        
+    var tooltipOptions = { theme: 'dark' };
+    vegaEmbed("#vis", vlSpec, {tooltip: tooltipOptions});
+  </script>
+</body>
+</html>
