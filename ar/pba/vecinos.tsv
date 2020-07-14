@@ -1,0 +1,346 @@
+id1	depto1	id2	depto2
+06315	General Juan Madariaga	06511	Maipú
+06315	General Juan Madariaga	06336	General Lavalle
+06315	General Juan Madariaga	06868	Villa Gesell
+06315	General Juan Madariaga	06644	Pinamar
+06315	General Juan Madariaga	06518	Mar Chiquita
+06623	Pergamino	06665	Ramallo
+06623	Pergamino	06763	San Nicolás
+06623	Pergamino	06714	Salto
+06623	Pergamino	06686	Rojas
+06539	Merlo	06560	Moreno
+06539	Merlo	06568	Morón
+06077	Arrecifes	06623	Pergamino
+06077	Arrecifes	06665	Ramallo
+06077	Arrecifes	06714	Salto
+06077	Arrecifes	06140	Capitán Sarmiento
+06077	Arrecifes	06770	San Pedro
+06483	Lobos	06547	Monte
+06483	Lobos	06574	Navarro
+06483	Lobos	06693	Roque Pérez
+06483	Lobos	06854	25 de Mayo
+06511	Maipú	06812	Tordillo
+06511	Maipú	06518	Mar Chiquita
+06672	Rauch	06791	Tandil
+06385	General Viamonte	06469	Lincoln
+06385	General Viamonte	06413	Junín
+06385	General Viamonte	06588	9 de Julio
+06056	Bahía Blanca	06875	Villarino
+06056	Bahía Blanca	06819	Tornquist
+06056	Bahía Blanca	06196	Coronel Pringles
+06056	Bahía Blanca	06182	Coronel de Marina Leonardo Rosales
+06336	General Lavalle	06511	Maipú
+06336	General Lavalle	06420	La Costa
+06336	General Lavalle	06812	Tordillo
+06336	General Lavalle	06644	Pinamar
+06420	La Costa	06644	Pinamar
+06505	Magdalena	06655	Punta Indio
+06105	Bolívar	06798	Tapalqué
+06105	Bolívar	06147	Carlos Casares
+06105	Bolívar	06595	Olavarría
+06105	Bolívar	06854	25 de Mayo
+06105	Bolívar	06588	9 de Julio
+06105	Bolívar	06287	General Alvear
+06105	Bolívar	06406	Hipólito Yrigoyen
+06105	Bolívar	06231	Daireaux
+06351	General Pinto	06469	Lincoln
+06351	General Pinto	06392	General Villegas
+06351	General Pinto	06462	Leandro N. Alem
+06742	San Cayetano	06833	Tres Arroyos
+06007	Adolfo Alsina	06616	Pellegrini
+06007	Adolfo Alsina	06651	Puán
+06007	Adolfo Alsina	06203	Coronel Suárez
+06007	Adolfo Alsina	06399	Guaminí
+06007	Adolfo Alsina	06700	Saavedra
+06007	Adolfo Alsina	06721	Salliqueló
+06616	Pellegrini	06826	Trenque Lauquen
+06616	Pellegrini	06721	Salliqueló
+06616	Pellegrini	06847	Tres Lomas
+06616	Pellegrini	06679	Rivadavia
+06651	Puán	06875	Villarino
+06651	Puán	06700	Saavedra
+06651	Puán	06819	Tornquist
+06826	Trenque Lauquen	06847	Tres Lomas
+06301	General Belgrano	06547	Monte
+06301	General Belgrano	06630	Pila
+06301	General Belgrano	06455	Las Flores
+06301	General Belgrano	06693	Roque Pérez
+06301	General Belgrano	06343	General Paz
+06547	Monte	06693	Roque Pérez
+06210	Chacabuco	06413	Junín
+06210	Chacabuco	06714	Salto
+06210	Chacabuco	06686	Rojas
+06210	Chacabuco	06784	Suipacha
+06210	Chacabuco	06224	Chivilcoy
+06756	San Isidro	06861	Vicente López
+06756	San Isidro	06805	Tigre
+06371	General San Martín	06861	Vicente López
+06371	General San Martín	06805	Tigre
+06371	General San Martín	06756	San Isidro
+06371	General San Martín	06749	San Fernando
+06371	General San Martín	06760	San Miguel
+06371	General San Martín	06840	Tres de Febrero
+06469	Lincoln	06588	9 de Julio
+06469	Lincoln	06609	Pehuajó
+06084	Benito Juárez	06791	Tandil
+06084	Benito Juárez	06581	Necochea
+06084	Benito Juárez	06448	Laprida
+06084	Benito Juárez	06595	Olavarría
+06175	Colón	06623	Pergamino
+06175	Colón	06294	General Arenales
+06175	Colón	06686	Rojas
+06098	Berisso	06505	Magdalena
+06098	Berisso	06245	Ensenada
+06749	San Fernando	06805	Tigre
+06749	San Fernando	06756	San Isidro
+06203	Coronel Suárez	06322	General La Madrid
+06203	Coronel Suárez	06399	Guaminí
+06203	Coronel Suárez	06700	Saavedra
+06203	Coronel Suárez	06819	Tornquist
+06203	Coronel Suárez	06231	Daireaux
+06014	Adolfo Gonzales Chaves	06742	San Cayetano
+06014	Adolfo Gonzales Chaves	06833	Tres Arroyos
+06014	Adolfo Gonzales Chaves	06084	Benito Juárez
+06014	Adolfo Gonzales Chaves	06581	Necochea
+06014	Adolfo Gonzales Chaves	06448	Laprida
+06014	Adolfo Gonzales Chaves	06196	Coronel Pringles
+06410	Ituzaingó	06539	Merlo
+06410	Ituzaingó	06760	San Miguel
+06410	Ituzaingó	06560	Moreno
+06410	Ituzaingó	06568	Morón
+06364	General Rodríguez	06525	Marcos Paz
+06364	General Rodríguez	06560	Moreno
+06364	General Rodríguez	06638	Pilar
+06364	General Rodríguez	06497	Luján
+06630	Pila	06672	Rauch
+06322	General La Madrid	06448	Laprida
+06322	General La Madrid	06595	Olavarría
+06280	General Alvarado	06476	Lobería
+06280	General Alvarado	06357	General Pueyrredón
+06035	Avellaneda	06658	Quilmes
+06035	Avellaneda	06434	Lanús
+06707	Saladillo	06854	25 de Mayo
+06308	General Guido	06511	Maipú
+06308	General Guido	06630	Pila
+06091	Berazategui	06274	Florencio Varela
+06091	Berazategui	06245	Ensenada
+06091	Berazategui	06658	Quilmes
+06189	Coronel Dorrego	06833	Tres Arroyos
+06189	Coronel Dorrego	06553	Monte Hermoso
+06189	Coronel Dorrego	06196	Coronel Pringles
+06581	Necochea	06791	Tandil
+06581	Necochea	06742	San Cayetano
+06466	Lezama	06630	Pila
+06218	Chascomús	06505	Magdalena
+06218	Chascomús	06301	General Belgrano
+06218	Chascomús	06630	Pila
+06218	Chascomús	06466	Lezama
+06218	Chascomús	06655	Punta Indio
+06218	Chascomús	06343	General Paz
+06413	Junín	06469	Lincoln
+06413	Junín	06686	Rojas
+06413	Junín	06462	Leandro N. Alem
+06270	Ezeiza	06427	La Matanza
+06270	Ezeiza	06648	Presidente Perón
+06270	Ezeiza	06778	San Vicente
+06665	Ramallo	06763	San Nicolás
+06665	Ramallo	06770	San Pedro
+06119	Brandsen	06505	Magdalena
+06119	Brandsen	06218	Chascomús
+06119	Brandsen	06343	General Paz
+06119	Brandsen	06778	San Vicente
+06147	Carlos Casares	06469	Lincoln
+06147	Carlos Casares	06588	9 de Julio
+06147	Carlos Casares	06609	Pehuajó
+06147	Carlos Casares	06406	Hipólito Yrigoyen
+06161	Carmen de Areco	06210	Chacabuco
+06161	Carmen de Areco	06714	Salto
+06161	Carmen de Areco	06728	San Andrés de Giles
+06161	Carmen de Areco	06784	Suipacha
+06161	Carmen de Areco	06735	San Antonio de Areco
+06266	Exaltación de la Cruz	06882	Zárate
+06266	Exaltación de la Cruz	06728	San Andrés de Giles
+06266	Exaltación de la Cruz	06735	San Antonio de Areco
+06266	Exaltación de la Cruz	06638	Pilar
+06266	Exaltación de la Cruz	06497	Luján
+06760	San Miguel	06805	Tigre
+06760	San Miguel	06840	Tres de Febrero
+06728	San Andrés de Giles	06784	Suipacha
+06728	San Andrés de Giles	06735	San Antonio de Areco
+06532	Mercedes	06728	San Andrés de Giles
+06532	Mercedes	06574	Navarro
+06532	Mercedes	06784	Suipacha
+06329	General Las Heras	06483	Lobos
+06329	General Las Heras	06364	General Rodríguez
+06329	General Las Heras	06525	Marcos Paz
+06329	General Las Heras	06574	Navarro
+06329	General Las Heras	06497	Luján
+06525	Marcos Paz	06539	Merlo
+06525	Marcos Paz	06560	Moreno
+06274	Florencio Varela	06648	Presidente Perón
+06274	Florencio Varela	06778	San Vicente
+06274	Florencio Varela	06658	Quilmes
+06574	Navarro	06784	Suipacha
+06574	Navarro	06854	25 de Mayo
+06134	Cañuelas	06483	Lobos
+06134	Cañuelas	06547	Monte
+06134	Cañuelas	06270	Ezeiza
+06134	Cañuelas	06329	General Las Heras
+06134	Cañuelas	06525	Marcos Paz
+06134	Cañuelas	06427	La Matanza
+06134	Cañuelas	06343	General Paz
+06134	Cañuelas	06778	San Vicente
+06042	Ayacucho	06791	Tandil
+06042	Ayacucho	06511	Maipú
+06042	Ayacucho	06672	Rauch
+06042	Ayacucho	06630	Pila
+06042	Ayacucho	06308	General Guido
+06042	Ayacucho	06063	Balcarce
+06042	Ayacucho	06518	Mar Chiquita
+06399	Guaminí	06826	Trenque Lauquen
+06399	Guaminí	06700	Saavedra
+06399	Guaminí	06721	Salliqueló
+06399	Guaminí	06847	Tres Lomas
+06448	Laprida	06595	Olavarría
+06700	Saavedra	06819	Tornquist
+06476	Lobería	06791	Tandil
+06476	Lobería	06581	Necochea
+06252	Escobar	06805	Tigre
+06252	Escobar	06749	San Fernando
+06252	Escobar	06638	Pilar
+06252	Escobar	06515	Malvinas Argentinas
+06294	General Arenales	06413	Junín
+06294	General Arenales	06686	Rojas
+06294	General Arenales	06462	Leandro N. Alem
+06560	Moreno	06760	San Miguel
+06560	Moreno	06638	Pilar
+06427	La Matanza	06539	Merlo
+06427	La Matanza	06525	Marcos Paz
+06427	La Matanza	06840	Tres de Febrero
+06427	La Matanza	06568	Morón
+06427	La Matanza	06490	Lomas de Zamora
+06644	Pinamar	06868	Villa Gesell
+06455	Las Flores	06672	Rauch
+06455	Las Flores	06798	Tapalqué
+06455	Las Flores	06630	Pila
+06455	Las Flores	06707	Saladillo
+06455	Las Flores	06693	Roque Pérez
+06686	Rojas	06714	Salto
+06819	Tornquist	06875	Villarino
+06196	Coronel Pringles	06833	Tres Arroyos
+06196	Coronel Pringles	06203	Coronel Suárez
+06196	Coronel Pringles	06322	General La Madrid
+06196	Coronel Pringles	06448	Laprida
+06196	Coronel Pringles	06819	Tornquist
+06126	Campana	06749	San Fernando
+06126	Campana	06882	Zárate
+06126	Campana	06266	Exaltación de la Cruz
+06126	Campana	06252	Escobar
+06126	Campana	06638	Pilar
+06392	General Villegas	06679	Rivadavia
+06693	Roque Pérez	06707	Saladillo
+06693	Roque Pérez	06854	25 de Mayo
+06595	Olavarría	06798	Tapalqué
+06063	Balcarce	06791	Tandil
+06063	Balcarce	06280	General Alvarado
+06063	Balcarce	06476	Lobería
+06063	Balcarce	06357	General Pueyrredón
+06063	Balcarce	06518	Mar Chiquita
+06182	Coronel de Marina Leonardo Rosales	06189	Coronel Dorrego
+06182	Coronel de Marina Leonardo Rosales	06553	Monte Hermoso
+06182	Coronel de Marina Leonardo Rosales	06196	Coronel Pringles
+06277	Florentino Ameghino	06351	General Pinto
+06277	Florentino Ameghino	06469	Lincoln
+06277	Florentino Ameghino	06392	General Villegas
+06735	San Antonio de Areco	06882	Zárate
+06721	Salliqueló	06847	Tres Lomas
+06412	José C. Paz	06760	San Miguel
+06412	José C. Paz	06560	Moreno
+06412	José C. Paz	06638	Pilar
+06412	José C. Paz	06515	Malvinas Argentinas
+06343	General Paz	06547	Monte
+06343	General Paz	06778	San Vicente
+06357	General Pueyrredón	06518	Mar Chiquita
+06518	Mar Chiquita	06868	Villa Gesell
+06168	Castelli	06812	Tordillo
+06168	Castelli	06630	Pila
+06168	Castelli	06466	Lezama
+06168	Castelli	06218	Chascomús
+06168	Castelli	06238	Dolores
+06028	Almirante Brown	06274	Florencio Varela
+06028	Almirante Brown	06648	Presidente Perón
+06028	Almirante Brown	06260	Esteban Echeverría
+06028	Almirante Brown	06658	Quilmes
+06028	Almirante Brown	06490	Lomas de Zamora
+06648	Presidente Perón	06778	San Vicente
+06568	Morón	06840	Tres de Febrero
+06154	Carlos Tejedor	06826	Trenque Lauquen
+06154	Carlos Tejedor	06469	Lincoln
+06154	Carlos Tejedor	06392	General Villegas
+06154	Carlos Tejedor	06277	Florentino Ameghino
+06154	Carlos Tejedor	06609	Pehuajó
+06154	Carlos Tejedor	06679	Rivadavia
+06588	9 de Julio	06854	25 de Mayo
+06609	Pehuajó	06826	Trenque Lauquen
+06260	Esteban Echeverría	06270	Ezeiza
+06260	Esteban Echeverría	06427	La Matanza
+06260	Esteban Echeverría	06648	Presidente Perón
+06260	Esteban Echeverría	06490	Lomas de Zamora
+06140	Capitán Sarmiento	06161	Carmen de Areco
+06140	Capitán Sarmiento	06714	Salto
+06140	Capitán Sarmiento	06735	San Antonio de Areco
+06140	Capitán Sarmiento	06770	San Pedro
+06497	Luján	06728	San Andrés de Giles
+06497	Luján	06532	Mercedes
+06497	Luján	06574	Navarro
+06497	Luján	06638	Pilar
+06408	Hurlingham	06410	Ituzaingó
+06408	Hurlingham	06760	San Miguel
+06408	Hurlingham	06840	Tres de Febrero
+06408	Hurlingham	06568	Morón
+06515	Malvinas Argentinas	06805	Tigre
+06515	Malvinas Argentinas	06760	San Miguel
+06515	Malvinas Argentinas	06638	Pilar
+06224	Chivilcoy	06574	Navarro
+06224	Chivilcoy	06784	Suipacha
+06224	Chivilcoy	06854	25 de Mayo
+06021	Alberti	06210	Chacabuco
+06021	Alberti	06854	25 de Mayo
+06021	Alberti	06224	Chivilcoy
+06021	Alberti	06112	Bragado
+06112	Bragado	06385	General Viamonte
+06112	Bragado	06210	Chacabuco
+06112	Bragado	06413	Junín
+06112	Bragado	06854	25 de Mayo
+06112	Bragado	06588	9 de Julio
+06287	General Alvear	06798	Tapalqué
+06287	General Alvear	06707	Saladillo
+06287	General Alvear	06455	Las Flores
+06287	General Alvear	06854	25 de Mayo
+06406	Hipólito Yrigoyen	06609	Pehuajó
+06238	Dolores	06511	Maipú
+06238	Dolores	06812	Tordillo
+06238	Dolores	06630	Pila
+06238	Dolores	06308	General Guido
+06049	Azul	06791	Tandil
+06049	Azul	06672	Rauch
+06049	Azul	06798	Tapalqué
+06049	Azul	06084	Benito Juárez
+06049	Azul	06455	Las Flores
+06049	Azul	06595	Olavarría
+06231	Daireaux	06826	Trenque Lauquen
+06231	Daireaux	06322	General La Madrid
+06231	Daireaux	06399	Guaminí
+06231	Daireaux	06595	Olavarría
+06231	Daireaux	06609	Pehuajó
+06231	Daireaux	06406	Hipólito Yrigoyen
+06462	Leandro N. Alem	06469	Lincoln
+06434	Lanús	06658	Quilmes
+06434	Lanús	06490	Lomas de Zamora
+06679	Rivadavia	06826	Trenque Lauquen
+06602	Patagones	06875	Villarino
+06070	Baradero	06882	Zárate
+06070	Baradero	06735	San Antonio de Areco
+06070	Baradero	06140	Capitán Sarmiento
+06070	Baradero	06770	San Pedro
+06490	Lomas de Zamora	06658	Quilmes
