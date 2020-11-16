@@ -6,3 +6,5 @@ Para tener un archivo completo de *Localidades*, tenes que unir estos tres:
  1. [capitales](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/capitales.geojson) (de provincias)
  2. [cabeceras](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/cabeceras.geojson) (de departamentos)
  3. [localidades](https://github.com/aaizemberg/geo-data/blob/master/ar/indec/localidades.geojson) (resto de las localidades)
+ 
+[Provincias GeoJSON --> TopoJSON](https://github.com/aaizemberg/geo-data/blob/gh-pages/ar/indec/provincias.json)
