@@ -16,7 +16,7 @@ preview --> https://github.com/aaizemberg/geo-data/blob/master/ar/chaco/AR-H_cir
 
 raw data --> https://raw.githubusercontent.com/aaizemberg/geo-data/master/ar/chaco/AR-H_circuitos.geojson
 
-## Electores
+## Electores (#159)
 
 preview --> https://github.com/aaizemberg/geo-data/blob/gh-pages/ar/chaco/electores.tsv
 
