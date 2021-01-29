@@ -16,6 +16,13 @@ preview --> https://github.com/aaizemberg/geo-data/blob/master/ar/chaco/AR-H_cir
 
 raw data --> https://raw.githubusercontent.com/aaizemberg/geo-data/master/ar/chaco/AR-H_circuitos.geojson
 
+## Electores
+
+preview --> https://github.com/aaizemberg/geo-data/blob/gh-pages/ar/chaco/electores.tsv
+
+raw data --> https://raw.githubusercontent.com/aaizemberg/geo-data/gh-pages/ar/chaco/electores.tsv
 ___
 
-fuente: http://electoralchaco.gov.ar/
+fuente:
+* http://electoralchaco.gov.ar/
+* http://www.electoralchaco.gov.ar/images/ano2019/Cantidad_Electores_por_Municipio.pdf
