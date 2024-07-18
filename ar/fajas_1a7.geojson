@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1},
+      "geometry": { "coordinates": [[-72,-22],[-72,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2},
+      "geometry": { "coordinates": [[-69,-22],[-69,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3},
+      "geometry": { "coordinates": [[-66,-22],[-66,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4},
+      "geometry": { "coordinates": [[-63,-22],[-63,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5},
+      "geometry": { "coordinates": [[-60,-22],[-60,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6},
+      "geometry": { "coordinates": [[-57,-22],[-57,-89]], "type": "LineString"}
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7},
+      "geometry": { "coordinates": [[-54,-22],[-54,-89]], "type": "LineString"}
+    }    
+  ]
+}
