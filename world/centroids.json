@@ -1,0 +1,1844 @@
+{
+"country_centroids": [
+	{
+		"id" : 1,
+		"iso2" : "AF",
+		"iso3" : "AFG",
+		"name" : "Afghanistan",
+		"centroids" : "POINT (66.02700330495861 33.83162327209641)"
+	},
+	{
+		"id" : 2,
+		"iso2" : "AL",
+		"iso3" : "ALB",
+		"name" : "Albania",
+		"centroids" : "POINT (20.06471048909782 41.13984660793466)"
+	},
+	{
+		"id" : 3,
+		"iso2" : "AD",
+		"iso3" : "AND",
+		"name" : "Andorra",
+		"centroids" : "POINT (1.5753435415712147 42.54497411406419)"
+	},
+	{
+		"id" : 4,
+		"iso2" : "AE",
+		"iso3" : "ARE",
+		"name" : "United Arab Emirates",
+		"centroids" : "POINT (53.98531851823509 23.44479773582691)"
+	},
+	{
+		"id" : 5,
+		"iso2" : "AR",
+		"iso3" : "ARG",
+		"name" : "Argentina",
+		"centroids" : "POINT (-65.14715135345216 -35.19173018579937)"
+	},
+	{
+		"id" : 6,
+		"iso2" : "AM",
+		"iso3" : "ARM",
+		"name" : "Armenia",
+		"centroids" : "POINT (44.938297868851635 40.29502318377297)"
+	},
+	{
+		"id" : 7,
+		"iso2" : "AG",
+		"iso3" : "ATG",
+		"name" : "Antigua and Barbuda",
+		"centroids" : "POINT (-61.79797545120607 17.078046466171543)"
+	},
+	{
+		"id" : 8,
+		"iso2" : "AU",
+		"iso3" : "AUS",
+		"name" : "Ashmore and Cartier Islands (Aus.)",
+		"centroids" : "POINT (122.96728920003659 -12.242581500235985)"
+	},
+	{
+		"id" : 9,
+		"iso2" : "AU",
+		"iso3" : "AUS",
+		"name" : "Australia",
+		"centroids" : "POINT (134.35694483693476 -25.57673088202455)"
+	},
+	{
+		"id" : 10,
+		"iso2" : "CX",
+		"iso3" : "CXR",
+		"name" : "Christmas Island (Aus.)",
+		"centroids" : "POINT (105.63942520151193 -10.483811630802052)"
+	},
+	{
+		"id" : 11,
+		"iso2" : "CC",
+		"iso3" : "CCK",
+		"name" : "Cocos (Keeling) Islands (Aus.)",
+		"centroids" : "POINT (96.82324627699415 -12.150833435814377)"
+	},
+	{
+		"id" : 12,
+		"iso2" : "HM",
+		"iso3" : "HMD",
+		"name" : "Heard Island and McDonald Islands (Aus.)",
+		"centroids" : "POINT (73.51982512982596 -53.09359879554796)"
+	},
+	{
+		"id" : 13,
+		"iso2" : "NF",
+		"iso3" : "NFK",
+		"name" : "Norfolk Island (Aus.)",
+		"centroids" : "POINT (167.95300101868213 -29.03356361107177)"
+	},
+	{
+		"id" : 14,
+		"iso2" : "AT",
+		"iso3" : "AUT",
+		"name" : "Austria",
+		"centroids" : "POINT (14.140040580008815 47.58698725186025)"
+	},
+	{
+		"id" : 15,
+		"iso2" : "AZ",
+		"iso3" : "AZE",
+		"name" : "Azerbaijan",
+		"centroids" : "POINT (47.649549559464674 40.36239101243535)"
+	},
+	{
+		"id" : 16,
+		"iso2" : "BI",
+		"iso3" : "BDI",
+		"name" : "Burundi",
+		"centroids" : "POINT (29.89117061503191 -3.36558819763718)"
+	},
+	{
+		"id" : 17,
+		"iso2" : "BE",
+		"iso3" : "BEL",
+		"name" : "Belgium",
+		"centroids" : "POINT (4.662549044302978 50.64116056141086)"
+	},
+	{
+		"id" : 18,
+		"iso2" : "BJ",
+		"iso3" : "BEN",
+		"name" : "Benin",
+		"centroids" : "POINT (2.3374908861954964 9.652929338917886)"
+	},
+	{
+		"id" : 19,
+		"iso2" : "BF",
+		"iso3" : "BFA",
+		"name" : "Burkina Faso",
+		"centroids" : "POINT (-1.7357352109112298 12.273781024574646)"
+	},
+	{
+		"id" : 20,
+		"iso2" : "BD",
+		"iso3" : "BGD",
+		"name" : "Bangladesh",
+		"centroids" : "POINT (90.2896245138603 23.896877153657783)"
+	},
+	{
+		"id" : 21,
+		"iso2" : "BG",
+		"iso3" : "BGR",
+		"name" : "Bulgaria",
+		"centroids" : "POINT (25.234594571082653 42.75741014486238)"
+	},
+	{
+		"id" : 22,
+		"iso2" : "BH",
+		"iso3" : "BHR",
+		"name" : "Bahrain",
+		"centroids" : "POINT (50.54250177273866 26.053576269429357)"
+	},
+	{
+		"id" : 23,
+		"iso2" : "BS",
+		"iso3" : "BHS",
+		"name" : "The Bahamas",
+		"centroids" : "POINT (-78.04983134424111 24.684743482825525)"
+	},
+	{
+		"id" : 24,
+		"iso2" : "BA",
+		"iso3" : "BIH",
+		"name" : "Bosnia and Herzegovina",
+		"centroids" : "POINT (17.785642619911016 44.16880958589371)"
+	},
+	{
+		"id" : 25,
+		"iso2" : "BY",
+		"iso3" : "BLR",
+		"name" : "Belarus",
+		"centroids" : "POINT (28.049450892644643 53.542000366823515)"
+	},
+	{
+		"id" : 26,
+		"iso2" : "BZ",
+		"iso3" : "BLZ",
+		"name" : "Belize",
+		"centroids" : "POINT (-88.70855765790952 17.19773017940429)"
+	},
+	{
+		"id" : 27,
+		"iso2" : "BO",
+		"iso3" : "BOL",
+		"name" : "Bolivia",
+		"centroids" : "POINT (-64.6623510841352 -16.71256005650139)"
+	},
+	{
+		"id" : 28,
+		"iso2" : "BR",
+		"iso3" : "BRA",
+		"name" : "Brazil",
+		"centroids" : "POINT (-53.08991528306382 -10.771013971717366)"
+	},
+	{
+		"id" : 29,
+		"iso2" : "BB",
+		"iso3" : "BRB",
+		"name" : "Barbados",
+		"centroids" : "POINT (-59.53547739916257 13.140821914799574)"
+	},
+	{
+		"id" : 30,
+		"iso2" : "BN",
+		"iso3" : "BRN",
+		"name" : "Brunei Darussalam",
+		"centroids" : "POINT (114.62976802507433 4.49715376543395)"
+	},
+	{
+		"id" : 31,
+		"iso2" : "BT",
+		"iso3" : "BTN",
+		"name" : "Bhutan",
+		"centroids" : "POINT (90.44294477638039 27.388881675449)"
+	},
+	{
+		"id" : 32,
+		"iso2" : "BW",
+		"iso3" : "BWA",
+		"name" : "Botswana",
+		"centroids" : "POINT (23.814878575685782 -22.18749235988446)"
+	},
+	{
+		"id" : 33,
+		"iso2" : "CF",
+		"iso3" : "CAF",
+		"name" : "Central African Republic",
+		"centroids" : "POINT (20.940138853325493 7.008107472381994)"
+	},
+	{
+		"id" : 34,
+		"iso2" : "CA",
+		"iso3" : "CAN",
+		"name" : "Canada",
+		"centroids" : "POINT (-101.81385334175826 57.82093885734247)"
+	},
+	{
+		"id" : 35,
+		"iso2" : "CH",
+		"iso3" : "CHE",
+		"name" : "Switzerland",
+		"centroids" : "POINT (8.2259827906733 46.97598597867005)"
+	},
+	{
+		"id" : 36,
+		"iso2" : "CL",
+		"iso3" : "CHL",
+		"name" : "Chile",
+		"centroids" : "POINT (-71.21993567888842 -35.23653020760298)"
+	},
+	{
+		"id" : 37,
+		"iso2" : "MO",
+		"iso3" : "MAC",
+		"name" : "Macau, SAR",
+		"centroids" : "POINT (113.5675123316289 22.144688941141794)"
+	},
+	{
+		"id" : 38,
+		"iso2" : "HK",
+		"iso3" : "HKG",
+		"name" : "Hong Kong, SAR",
+		"centroids" : "POINT (114.03343419982855 22.431468542239486)"
+	},
+	{
+		"id" : 39,
+		"iso2" : "CN",
+		"iso3" : "CHN",
+		"name" : "China",
+		"centroids" : "POINT (104.14712423039896 32.312286283585195)"
+	},
+	{
+		"id" : 40,
+		"iso2" : "TW",
+		"iso3" : "TWN",
+		"name" : "China",
+		"centroids" : "POINT (120.9724104258006 23.751154252266986)"
+	},
+	{
+		"id" : 41,
+		"iso2" : "CI",
+		"iso3" : "CIV",
+		"name" : "Côte d'Ivoire",
+		"centroids" : "POINT (-5.5527280237792525 7.622851389380173)"
+	},
+	{
+		"id" : 42,
+		"iso2" : "CM",
+		"iso3" : "CMR",
+		"name" : "Cameroon",
+		"centroids" : "POINT (12.744744498459909 5.693364187207521)"
+	},
+	{
+		"id" : 43,
+		"iso2" : "ZR",
+		"iso3" : "COD",
+		"name" : "Democratic Republic of Congo",
+		"centroids" : "POINT (23.657068825565887 -2.875865196821337)"
+	},
+	{
+		"id" : 44,
+		"iso2" : "CG",
+		"iso3" : "COG",
+		"name" : "Congo",
+		"centroids" : "POINT (15.220923220530267 -0.8407282073408737)"
+	},
+	{
+		"id" : 45,
+		"iso2" : "KM",
+		"iso3" : "COM",
+		"name" : "Comoros",
+		"centroids" : "POINT (43.35447796978252 -11.66183129198049)"
+	},
+	{
+		"id" : 46,
+		"iso2" : "CV",
+		"iso3" : "CPV",
+		"name" : "Cabo Verde",
+		"centroids" : "POINT (-23.624599719301557 15.083862567503559)"
+	},
+	{
+		"id" : 47,
+		"iso2" : "CR",
+		"iso3" : "CRI",
+		"name" : "Costa Rica",
+		"centroids" : "POINT (-84.19316140927157 9.975331490955568)"
+	},
+	{
+		"id" : 48,
+		"iso2" : "CU",
+		"iso3" : "CUB",
+		"name" : "Cuba",
+		"centroids" : "POINT (-79.541563033707 22.097032871270017)"
+	},
+	{
+		"id" : 49,
+		"iso2" : "CY",
+		"iso3" : "CYP",
+		"name" : "Cyprus",
+		"centroids" : "POINT (32.95634065199954 34.91628218927167)"
+	},
+	{
+		"id" : 50,
+		"iso2" : "CZ",
+		"iso3" : "CZE",
+		"name" : "Czech Republic",
+		"centroids" : "POINT (15.331868566780997 49.73910453944302)"
+	},
+	{
+		"id" : 51,
+		"iso2" : "DE",
+		"iso3" : "DEU",
+		"name" : "Germany",
+		"centroids" : "POINT (10.380504678348302 51.090093675882486)"
+	},
+	{
+		"id" : 52,
+		"iso2" : "DM",
+		"iso3" : "DMA",
+		"name" : "Dominica",
+		"centroids" : "POINT (-61.34963247815631 15.434447017316018)"
+	},
+	{
+		"id" : 53,
+		"iso2" : "DK",
+		"iso3" : "DNK",
+		"name" : "Denmark",
+		"centroids" : "POINT (9.316181010944945 56.032187787936095)"
+	},
+	{
+		"id" : 54,
+		"iso2" : "FO",
+		"iso3" : "FRO",
+		"name" : "Faroe Islands (Den.)",
+		"centroids" : "POINT (-7.128681250739078 62.205718891313836)"
+	},
+	{
+		"id" : 55,
+		"iso2" : "GL",
+		"iso3" : "GRL",
+		"name" : "Greenland (Den.)",
+		"centroids" : "POINT (-41.34569685912271 74.78060024830285)"
+	},
+	{
+		"id" : 56,
+		"iso2" : "DO",
+		"iso3" : "DOM",
+		"name" : "Dominican Republic",
+		"centroids" : "POINT (-70.49938854754339 18.89842549763864)"
+	},
+	{
+		"id" : 57,
+		"iso2" : "DZ",
+		"iso3" : "DZA",
+		"name" : "Algeria",
+		"centroids" : "POINT (2.677151098444483 28.15730307827448)"
+	},
+	{
+		"id" : 58,
+		"iso2" : "EC",
+		"iso3" : "ECU",
+		"name" : "Ecuador",
+		"centroids" : "POINT (-78.3688345589677 -1.444942526376451)"
+	},
+	{
+		"id" : 59,
+		"iso2" : "EG",
+		"iso3" : "EGY",
+		"name" : "Arab Republic of Egypt",
+		"centroids" : "POINT (29.61969335806208 26.285514967541758)"
+	},
+	{
+		"id" : 60,
+		"iso2" : "ER",
+		"iso3" : "ERI",
+		"name" : "Eritrea",
+		"centroids" : "POINT (38.10933063390166 16.1318896102174)"
+	},
+	{
+		"id" : 61,
+		"iso2" : "ES",
+		"iso3" : "ESP",
+		"name" : "Spain",
+		"centroids" : "POINT (-2.4412319333070513 35.17922033395132)"
+	},
+	{
+		"id" : 62,
+		"iso2" : "ES",
+		"iso3" : "ESP",
+		"name" : "Spain",
+		"centroids" : "POINT (-3.553815489792953 40.390245458760944)"
+	},
+	{
+		"id" : 63,
+		"iso2" : "EE",
+		"iso3" : "EST",
+		"name" : "Estonia",
+		"centroids" : "POINT (25.838723664965244 58.68351177984482)"
+	},
+	{
+		"id" : 64,
+		"iso2" : "AX",
+		"iso3" : "ALA",
+		"name" : "Finland",
+		"centroids" : "POINT (19.94264068292125 60.248794221576134)"
+	},
+	{
+		"id" : 65,
+		"iso2" : "FI",
+		"iso3" : "FIN",
+		"name" : "Finland",
+		"centroids" : "POINT (23.308160932381156 61.921701238621324)"
+	},
+	{
+		"id" : 66,
+		"iso2" : "FJ",
+		"iso3" : "FJI",
+		"name" : "Fiji",
+		"centroids" : "POINT (177.96391333553208 -17.83551724782268)"
+	},
+	{
+		"id" : 67,
+		"iso2" : "FR",
+		"iso3" : "FRA",
+		"name" : "Clipperton Island (Fr.)",
+		"centroids" : "POINT (-109.216538967899 10.303693221764831)"
+	},
+	{
+		"id" : 68,
+		"iso2" : "FR",
+		"iso3" : "FRA",
+		"name" : "France",
+		"centroids" : "POINT (2.4565663501570043 46.62355216030403)"
+	},
+	{
+		"id" : 69,
+		"iso2" : "GF",
+		"iso3" : "GUF",
+		"name" : "French Guiana",
+		"centroids" : "POINT (-53.19717442965617 3.9774335252370747)"
+	},
+	{
+		"id" : 70,
+		"iso2" : "PF",
+		"iso3" : "PYF",
+		"name" : "French Polynesia (Fr.)",
+		"centroids" : "POINT (-149.40057347058917 -17.677752976418674)"
+	},
+	{
+		"id" : 71,
+		"iso2" : "TF",
+		"iso3" : "ATF",
+		"name" : "French Southern and Antarctic Lands (Fr.)",
+		"centroids" : "POINT (69.64434304969205 -49.60322259614583)"
+	},
+	{
+		"id" : 72,
+		"iso2" : "GP",
+		"iso3" : "GLP",
+		"name" : "France",
+		"centroids" : "POINT (-61.680121842149276 16.159510336233097)"
+	},
+	{
+		"id" : 73,
+		"iso2" : "MQ",
+		"iso3" : "MTQ",
+		"name" : "France",
+		"centroids" : "POINT (-60.91475935016382 14.562506973118388)"
+	},
+	{
+		"id" : 74,
+		"iso2" : "YT",
+		"iso3" : "MYT",
+		"name" : "France",
+		"centroids" : "POINT (45.14329153487648 -12.822850268125308)"
+	},
+	{
+		"id" : 75,
+		"iso2" : "NC",
+		"iso3" : "NCL",
+		"name" : "New Caledonia (Fr.)",
+		"centroids" : "POINT (165.51130639937094 -21.409917184230608)"
+	},
+	{
+		"id" : 76,
+		"iso2" : "RE",
+		"iso3" : "REU",
+		"name" : "France",
+		"centroids" : "POINT (55.532265309596426 -21.13271069454288)"
+	},
+	{
+		"id" : 77,
+		"iso2" : "PM",
+		"iso3" : "SPM",
+		"name" : "Saint-Pierre-et-Miquelon (Fr.)",
+		"centroids" : "POINT (-56.32207075046472 46.85809454952391)"
+	},
+	{
+		"id" : 78,
+		"iso2" : "WF",
+		"iso3" : "WLF",
+		"name" : "Wallis and Futuna (Fr.)",
+		"centroids" : "POINT (-176.20595411568985 -13.283291661480973)"
+	},
+	{
+		"id" : 79,
+		"iso2" : "BL",
+		"iso3" : "BLM",
+		"name" : "Saint-Barthélemy (Fr.)",
+		"centroids" : "POINT (-62.83311450033386 17.893599464144017)"
+	},
+	{
+		"id" : 80,
+		"iso2" : "MF",
+		"iso3" : "MAF",
+		"name" : "Saint-Martin (Fr.)",
+		"centroids" : "POINT (-63.051296520917674 18.082631607262897)"
+	},
+	{
+		"id" : 81,
+		"iso2" : "FM",
+		"iso3" : "FSM",
+		"name" : "Federated States of Micronesia",
+		"centroids" : "POINT (158.22639084785942 6.880935550535298)"
+	},
+	{
+		"id" : 82,
+		"iso2" : "GA",
+		"iso3" : "GAB",
+		"name" : "Gabon",
+		"centroids" : "POINT (11.789127250322395 -0.6051061154548165)"
+	},
+	{
+		"id" : 83,
+		"iso2" : "AI",
+		"iso3" : "AIA",
+		"name" : "Anguilla (U.K.)",
+		"centroids" : "POINT (-63.02896762525569 18.230332626849304)"
+	},
+	{
+		"id" : 84,
+		"iso2" : "BM",
+		"iso3" : "BMU",
+		"name" : "Bermuda (U.K.)",
+		"centroids" : "POINT (-64.77507100052622 32.291074824343696)"
+	},
+	{
+		"id" : 85,
+		"iso2" : "IO",
+		"iso3" : "IOT",
+		"name" : "British Indian Ocean Territory (U.K.)",
+		"centroids" : "POINT (71.25815679949676 -6.455716923297302)"
+	},
+	{
+		"id" : 86,
+		"iso2" : "VG",
+		"iso3" : "VGB",
+		"name" : "British Virgin Islands (U.K.)",
+		"centroids" : "POINT (-64.64659955022904 18.422277066133745)"
+	},
+	{
+		"id" : 87,
+		"iso2" : "KY",
+		"iso3" : "CYM",
+		"name" : "Cayman Islands (U.K.)",
+		"centroids" : "POINT (-81.24246061936208 19.31774549655745)"
+	},
+	{
+		"id" : 88,
+		"iso2" : "GI",
+		"iso3" : "GIB",
+		"name" : "Gibraltar (U.K.)",
+		"centroids" : "POINT (-5.349011028136374 36.13986051605002)"
+	},
+	{
+		"id" : 89,
+		"iso2" : "GG",
+		"iso3" : "GGY",
+		"name" : "Guernsey (U.K.)",
+		"centroids" : "POINT (-2.581364501370615 49.45645862986191)"
+	},
+	{
+		"id" : 90,
+		"iso2" : "IM",
+		"iso3" : "IMN",
+		"name" : "Isle of Man (U.K.)",
+		"centroids" : "POINT (-4.536948874590848 54.22914321588678)"
+	},
+	{
+		"id" : 91,
+		"iso2" : "JE",
+		"iso3" : "JEY",
+		"name" : "Jersey (U.K.)",
+		"centroids" : "POINT (-2.135469228422096 49.224773759101765)"
+	},
+	{
+		"id" : 92,
+		"iso2" : "MS",
+		"iso3" : "MSR",
+		"name" : "Montserrat (U.K.)",
+		"centroids" : "POINT (-62.189400924612926 16.738579681007536)"
+	},
+	{
+		"id" : 93,
+		"iso2" : "PN",
+		"iso3" : "PCN",
+		"name" : "Pitcairn Islands (U.K.)",
+		"centroids" : "POINT (-128.3230519593804 -24.376643578238486)"
+	},
+	{
+		"id" : 94,
+		"iso2" : "SH",
+		"iso3" : "SHN",
+		"name" : "Saint Helena, Ascension and Tristan da Cunha (U.K.)",
+		"centroids" : "POINT (-5.7065343680665706 -15.965616278068751)"
+	},
+	{
+		"id" : 95,
+		"iso2" : "TC",
+		"iso3" : "TCA",
+		"name" : "Turks and Caicos Islands (U.K.)",
+		"centroids" : "POINT (-72.0058908758632 21.93200589805383)"
+	},
+	{
+		"id" : 96,
+		"iso2" : "GB",
+		"iso3" : "GBR",
+		"name" : "Sovereign Base Areas of Akrotiri and Dhekelia (U.K.)",
+		"centroids" : "POINT (33.787635875895035 35.01822319404522)"
+	},
+	{
+		"id" : 97,
+		"iso2" : "GB",
+		"iso3" : "GBR",
+		"name" : "United Kingdom",
+		"centroids" : "POINT (-0.2351760865071242 52.24657925772664)"
+	},
+	{
+		"id" : 98,
+		"iso2" : "GE",
+		"iso3" : "GEO",
+		"name" : "Georgia",
+		"centroids" : "POINT (43.36803680275631 42.0479629444344)"
+	},
+	{
+		"id" : 99,
+		"iso2" : "GN",
+		"iso3" : "GIN",
+		"name" : "Guinea",
+		"centroids" : "POINT (-11.283405582601517 11.008434436300263)"
+	},
+	{
+		"id" : 100,
+		"iso2" : "GM",
+		"iso3" : "GMB",
+		"name" : "The Gambia",
+		"centroids" : "POINT (-16.056815098637855 13.378329079223704)"
+	},
+	{
+		"id" : 101,
+		"iso2" : "GW",
+		"iso3" : "GNB",
+		"name" : "Guinea-Bissau",
+		"centroids" : "POINT (-14.386833628369232 12.124019295753953)"
+	},
+	{
+		"id" : 102,
+		"iso2" : "GQ",
+		"iso3" : "GNQ",
+		"name" : "Equatorial Guinea",
+		"centroids" : "POINT (10.464343029107567 1.567025381016549)"
+	},
+	{
+		"id" : 103,
+		"iso2" : "GR",
+		"iso3" : "GRC",
+		"name" : "Greece",
+		"centroids" : "POINT (21.66531089668058 39.624331278565705)"
+	},
+	{
+		"id" : 104,
+		"iso2" : "GD",
+		"iso3" : "GRD",
+		"name" : "Grenada",
+		"centroids" : "POINT (-61.68253488058025 12.115018688261898)"
+	},
+	{
+		"id" : 105,
+		"iso2" : "GT",
+		"iso3" : "GTM",
+		"name" : "Guatemala",
+		"centroids" : "POINT (-91.22935190946299 15.003666277676643)"
+	},
+	{
+		"id" : 106,
+		"iso2" : "GY",
+		"iso3" : "GUY",
+		"name" : "Guyana",
+		"centroids" : "POINT (-58.976584889481046 4.789771688812436)"
+	},
+	{
+		"id" : 107,
+		"iso2" : "HN",
+		"iso3" : "HND",
+		"name" : "Honduras",
+		"centroids" : "POINT (-86.61319683556547 14.820876008720859)"
+	},
+	{
+		"id" : 108,
+		"iso2" : "HR",
+		"iso3" : "HRV",
+		"name" : "Croatia",
+		"centroids" : "POINT (16.469261952577085 43.76504072045293)"
+	},
+	{
+		"id" : 109,
+		"iso2" : "HU",
+		"iso3" : "HUN",
+		"name" : "Hungary",
+		"centroids" : "POINT (19.41191188922238 47.16530342181551)"
+	},
+	{
+		"id" : 110,
+		"iso2" : "ID",
+		"iso3" : "IDN",
+		"name" : "Indonesia",
+		"centroids" : "POINT (113.91432004973058 -0.9931113043431878)"
+	},
+	{
+		"id" : 111,
+		"iso2" : "IN",
+		"iso3" : "IND",
+		"name" : "India",
+		"centroids" : "POINT (79.47885219427343 22.33643758092967)"
+	},
+	{
+		"id" : 112,
+		"iso2" : "IN",
+		"iso3" : "IND",
+		"name" : "India",
+		"centroids" : "POINT (76.52820183204898 33.986361394063124)"
+	},
+	{
+		"id" : 113,
+		"iso2" : "IE",
+		"iso3" : "IRL",
+		"name" : "Ireland",
+		"centroids" : "POINT (-8.140131984503455 53.17759970436293)"
+	},
+	{
+		"id" : 114,
+		"iso2" : "IR",
+		"iso3" : "IRN",
+		"name" : "Islamic Republic of Iran",
+		"centroids" : "POINT (54.304211080377115 32.567028027821266)"
+	},
+	{
+		"id" : 115,
+		"iso2" : "IS",
+		"iso3" : "ISL",
+		"name" : "Iceland",
+		"centroids" : "POINT (-19.013417950278154 64.79081135965657)"
+	},
+	{
+		"id" : 116,
+		"iso2" : "IL",
+		"iso3" : "ISR",
+		"name" : "Israel",
+		"centroids" : "POINT (34.62139211975057 31.062446574949547)"
+	},
+	{
+		"id" : 117,
+		"iso2" : "IT",
+		"iso3" : "ITA",
+		"name" : "Italy",
+		"centroids" : "POINT (12.57372374435539 42.794426466008645)"
+	},
+	{
+		"id" : 118,
+		"iso2" : "JM",
+		"iso3" : "JAM",
+		"name" : "Jamaica",
+		"centroids" : "POINT (-77.31100809224961 18.157873027418304)"
+	},
+	{
+		"id" : 119,
+		"iso2" : "JO",
+		"iso3" : "JOR",
+		"name" : "Jordan",
+		"centroids" : "POINT (37.13092227724138 30.65493061495596)"
+	},
+	{
+		"id" : 120,
+		"iso2" : "JP",
+		"iso3" : "JPN",
+		"name" : "Japan",
+		"centroids" : "POINT (139.27006912209242 36.6584762907483)"
+	},
+	{
+		"id" : 121,
+		"iso2" : "KZ",
+		"iso3" : "KAZ",
+		"name" : "Kazakhstan",
+		"centroids" : "POINT (67.29658060541067 48.164233356084594)"
+	},
+	{
+		"id" : 122,
+		"iso2" : "KG",
+		"iso3" : "KGZ",
+		"name" : "Kyrgyz Republic",
+		"centroids" : "POINT (74.52242669743418 41.46207284988219)"
+	},
+	{
+		"id" : 123,
+		"iso2" : "KI",
+		"iso3" : "KIR",
+		"name" : "Kiribati",
+		"centroids" : "POINT (-157.36215753744037 1.8561926623615363)"
+	},
+	{
+		"id" : 124,
+		"iso2" : "KN",
+		"iso3" : "KNA",
+		"name" : "Saint Kitts and Nevis",
+		"centroids" : "POINT (-62.76716969592468 17.341131157177188)"
+	},
+	{
+		"id" : 125,
+		"iso2" : "KR",
+		"iso3" : "KOR",
+		"name" : "Republic of Korea",
+		"centroids" : "POINT (127.84390144449617 36.453859702363445)"
+	},
+	{
+		"id" : 126,
+		"iso2" : "XK",
+		"iso3" : "KSV",
+		"name" : "Kosovo",
+		"centroids" : "POINT (20.889102921662527 42.58173875903657)"
+	},
+	{
+		"id" : 127,
+		"iso2" : "KW",
+		"iso3" : "KWT",
+		"name" : "Kuwait",
+		"centroids" : "POINT (47.49183867451529 29.53895732392141)"
+	},
+	{
+		"id" : 128,
+		"iso2" : "LA",
+		"iso3" : "LAO",
+		"name" : "Lao People's Democratic Republic",
+		"centroids" : "POINT (101.97017204580334 20.271090791906545)"
+	},
+	{
+		"id" : 129,
+		"iso2" : "LR",
+		"iso3" : "LBR",
+		"name" : "Liberia",
+		"centroids" : "POINT (-9.311738304079427 6.448779350886355)"
+	},
+	{
+		"id" : 130,
+		"iso2" : "LY",
+		"iso3" : "LBY",
+		"name" : "Libya",
+		"centroids" : "POINT (18.0305895968325 27.040350264553126)"
+	},
+	{
+		"id" : 131,
+		"iso2" : "LC",
+		"iso3" : "LCA",
+		"name" : "Saint Lucia",
+		"centroids" : "POINT (-60.96732377946881 13.900430829419292)"
+	},
+	{
+		"id" : 132,
+		"iso2" : "LI",
+		"iso3" : "LIE",
+		"name" : "Liechtenstein",
+		"centroids" : "POINT (9.552352415931296 47.14158393774858)"
+	},
+	{
+		"id" : 133,
+		"iso2" : "LK",
+		"iso3" : "LKA",
+		"name" : "Sri Lanka",
+		"centroids" : "POINT (80.70546187216775 7.613243717923297)"
+	},
+	{
+		"id" : 134,
+		"iso2" : "LS",
+		"iso3" : "LSO",
+		"name" : "Lesotho",
+		"centroids" : "POINT (28.246895170975392 -29.583358828946757)"
+	},
+	{
+		"id" : 135,
+		"iso2" : "LT",
+		"iso3" : "LTU",
+		"name" : "Lithuania",
+		"centroids" : "POINT (23.904472464332798 55.33704384419809)"
+	},
+	{
+		"id" : 136,
+		"iso2" : "LU",
+		"iso3" : "LUX",
+		"name" : "Luxembourg",
+		"centroids" : "POINT (6.092929702343952 49.777101279000874)"
+	},
+	{
+		"id" : 137,
+		"iso2" : "LV",
+		"iso3" : "LVA",
+		"name" : "Latvia",
+		"centroids" : "POINT (26.422401542397324 56.641434330929656)"
+	},
+	{
+		"id" : 138,
+		"iso2" : "MA",
+		"iso3" : "MAR",
+		"name" : "Morocco",
+		"centroids" : "POINT (-6.282051609294285 31.841994739066024)"
+	},
+	{
+		"id" : 139,
+		"iso2" : "MC",
+		"iso3" : "MCO",
+		"name" : "Monaco",
+		"centroids" : "POINT (7.423323308124225 43.73607325697526)"
+	},
+	{
+		"id" : 140,
+		"iso2" : "MG",
+		"iso3" : "MDG",
+		"name" : "Madagascar",
+		"centroids" : "POINT (46.69678937113264 -19.394876741068686)"
+	},
+	{
+		"id" : 141,
+		"iso2" : "MV",
+		"iso3" : "MDV",
+		"name" : "Maldives",
+		"centroids" : "POINT (73.42540261923557 -0.2951733693554388)"
+	},
+	{
+		"id" : 142,
+		"iso2" : "MH",
+		"iso3" : "MHL",
+		"name" : "Marshall Islands",
+		"centroids" : "POINT (171.7344352997494 6.08665980080923)"
+	},
+	{
+		"id" : 143,
+		"iso2" : "MK",
+		"iso3" : "MKD",
+		"name" : "North Macedonia",
+		"centroids" : "POINT (21.700866265565764 41.6003168272598)"
+	},
+	{
+		"id" : 144,
+		"iso2" : "ML",
+		"iso3" : "MLI",
+		"name" : "Mali",
+		"centroids" : "POINT (-3.5138044703000446 17.35604652752528)"
+	},
+	{
+		"id" : 145,
+		"iso2" : "MT",
+		"iso3" : "MLT",
+		"name" : "Malta",
+		"centroids" : "POINT (14.443405146430393 35.88420860214535)"
+	},
+	{
+		"id" : 146,
+		"iso2" : "MM",
+		"iso3" : "MMR",
+		"name" : "Myanmar",
+		"centroids" : "POINT (96.52241326705871 21.17687212954519)"
+	},
+	{
+		"id" : 147,
+		"iso2" : "ME",
+		"iso3" : "MNE",
+		"name" : "Montenegro",
+		"centroids" : "POINT (19.25194465472208 42.787286815734035)"
+	},
+	{
+		"id" : 148,
+		"iso2" : "MN",
+		"iso3" : "MNG",
+		"name" : "Mongolia",
+		"centroids" : "POINT (103.07039034683709 46.836371376937564)"
+	},
+	{
+		"id" : 149,
+		"iso2" : "MR",
+		"iso3" : "MRT",
+		"name" : "Mauritania",
+		"centroids" : "POINT (-10.333177837487142 20.259198647299797)"
+	},
+	{
+		"id" : 150,
+		"iso2" : "MU",
+		"iso3" : "MUS",
+		"name" : "Mauritius",
+		"centroids" : "POINT (57.57174159359971 -20.28349248049352)"
+	},
+	{
+		"id" : 151,
+		"iso2" : "MW",
+		"iso3" : "MWI",
+		"name" : "Malawi",
+		"centroids" : "POINT (33.493046400271226 -13.409665151725335)"
+	},
+	{
+		"id" : 152,
+		"iso2" : "MY",
+		"iso3" : "MYS",
+		"name" : "Malaysia",
+		"centroids" : "POINT (116.83644113235243 5.45372119587654)"
+	},
+	{
+		"id" : 153,
+		"iso2" : "NaN",
+		"iso3" : "NAM",
+		"name" : "Namibia",
+		"centroids" : "POINT (17.222349768826803 -22.138898092972568)"
+	},
+	{
+		"id" : 154,
+		"iso2" : "NG",
+		"iso3" : "NGA",
+		"name" : "Nigeria",
+		"centroids" : "POINT (8.104968658177086 9.604122382342098)"
+	},
+	{
+		"id" : 155,
+		"iso2" : "NI",
+		"iso3" : "NIC",
+		"name" : "Nicaragua",
+		"centroids" : "POINT (-85.03776196973905 12.846944115878273)"
+	},
+	{
+		"id" : 156,
+		"iso2" : "AW",
+		"iso3" : "ABW",
+		"name" : "Aruba (Neth.)",
+		"centroids" : "POINT (-69.97032786403963 12.509432989241134)"
+	},
+	{
+		"id" : 157,
+		"iso2" : "NL",
+		"iso3" : "NLD",
+		"name" : "Netherlands",
+		"centroids" : "POINT (5.288002992943802 51.85820436563904)"
+	},
+	{
+		"id" : 158,
+		"iso2" : "BQ",
+		"iso3" : "BES",
+		"name" : "Bonaire, Sint Eustatius and Saba",
+		"centroids" : "POINT (-68.30489489938009 12.224725421640926)"
+	},
+	{
+		"id" : 159,
+		"iso2" : "CW",
+		"iso3" : "CUW",
+		"name" : "Curaçao (Neth.)",
+		"centroids" : "POINT (-68.9498352007339 12.148284061260483)"
+	},
+	{
+		"id" : 160,
+		"iso2" : "BQ",
+		"iso3" : "BES",
+		"name" : "Bonaire, Sint Eustatius and Saba",
+		"centroids" : "POINT (-63.2371842636428 17.631889684561315)"
+	},
+	{
+		"id" : 161,
+		"iso2" : "BQ",
+		"iso3" : "BES",
+		"name" : "Bonaire, Sint Eustatius and Saba",
+		"centroids" : "POINT (-62.97729986499672 17.490377131999082)"
+	},
+	{
+		"id" : 162,
+		"iso2" : "SX",
+		"iso3" : "SXM",
+		"name" : "Sint Maarten (Neth.)",
+		"centroids" : "POINT (-63.05321924986845 18.041114962585482)"
+	},
+	{
+		"id" : 163,
+		"iso2" : "BV",
+		"iso3" : "BVT",
+		"name" : "Bouvet Island (Nor.)",
+		"centroids" : "POINT (3.3577630726077814 -54.42081981258423)"
+	},
+	{
+		"id" : 164,
+		"iso2" : "NO",
+		"iso3" : "NOR",
+		"name" : "Norway",
+		"centroids" : "POINT (11.476300374362836 61.44391866071766)"
+	},
+	{
+		"id" : 165,
+		"iso2" : "SJ",
+		"iso3" : "SJM",
+		"name" : "Svalbard and Jan Mayen (Nor.)",
+		"centroids" : "POINT (13.354038299927652 78.83029977851203)"
+	},
+	{
+		"id" : 166,
+		"iso2" : "NP",
+		"iso3" : "NPL",
+		"name" : "Nepal",
+		"centroids" : "POINT (83.94486410539423 28.258659782722873)"
+	},
+	{
+		"id" : 167,
+		"iso2" : "NR",
+		"iso3" : "NRU",
+		"name" : "Nauru",
+		"centroids" : "POINT (166.93400996868513 -0.5281409485459108)"
+	},
+	{
+		"id" : 168,
+		"iso2" : "CK",
+		"iso3" : "COK",
+		"name" : "Cook Islands (N.Z.)",
+		"centroids" : "POINT (-159.77826463960142 -21.23480879918668)"
+	},
+	{
+		"id" : 169,
+		"iso2" : "NZ",
+		"iso3" : "NZL",
+		"name" : "New Zealand",
+		"centroids" : "POINT (170.47850550272688 -43.98671956305736)"
+	},
+	{
+		"id" : 170,
+		"iso2" : "NU",
+		"iso3" : "NIU",
+		"name" : "Niue (N.Z.)",
+		"centroids" : "POINT (-169.85846618216854 -19.052152937008373)"
+	},
+	{
+		"id" : 171,
+		"iso2" : "TK",
+		"iso3" : "TKL",
+		"name" : "Tokelau (N.Z.)",
+		"centroids" : "POINT (-171.77703769933032 -9.185832092576959)"
+	},
+	{
+		"id" : 172,
+		"iso2" : "OM",
+		"iso3" : "OMN",
+		"name" : "Oman",
+		"centroids" : "POINT (57.87954257413054 21.990961805542952)"
+	},
+	{
+		"id" : 173,
+		"iso2" : "PK",
+		"iso3" : "PAK",
+		"name" : "Pakistan",
+		"centroids" : "POINT (74.81308407447051 35.86426548106715)"
+	},
+	{
+		"id" : 174,
+		"iso2" : "PK",
+		"iso3" : "PAK",
+		"name" : "Pakistan",
+		"centroids" : "POINT (68.81411823486872 29.404601625664554)"
+	},
+	{
+		"id" : 175,
+		"iso2" : "PA",
+		"iso3" : "PAN",
+		"name" : "Panama",
+		"centroids" : "POINT (-80.08717203066465 8.520171936685585)"
+	},
+	{
+		"id" : 176,
+		"iso2" : "PE",
+		"iso3" : "PER",
+		"name" : "Peru",
+		"centroids" : "POINT (-71.82157400773423 -13.589908291534357)"
+	},
+	{
+		"id" : 177,
+		"iso2" : "PH",
+		"iso3" : "PHL",
+		"name" : "Philippines",
+		"centroids" : "POINT (120.86212057470482 14.165359378832306)"
+	},
+	{
+		"id" : 178,
+		"iso2" : "PW",
+		"iso3" : "PLW",
+		"name" : "Palau",
+		"centroids" : "POINT (134.56546038388967 7.500561511904323)"
+	},
+	{
+		"id" : 179,
+		"iso2" : "PG",
+		"iso3" : "PNG",
+		"name" : "Papua New Guinea",
+		"centroids" : "POINT (145.85632642032806 -6.757576303403653)"
+	},
+	{
+		"id" : 180,
+		"iso2" : "PL",
+		"iso3" : "POL",
+		"name" : "Poland",
+		"centroids" : "POINT (19.399900686067838 52.12489685340711)"
+	},
+	{
+		"id" : 181,
+		"iso2" : "KP",
+		"iso3" : "PRK",
+		"name" : "D. P. R. of Korea",
+		"centroids" : "POINT (127.1679080771961 40.139950391697255)"
+	},
+	{
+		"id" : 182,
+		"iso2" : "PT",
+		"iso3" : "PRT",
+		"name" : "Portugal",
+		"centroids" : "POINT (-17.00154254785025 32.74623248124408)"
+	},
+	{
+		"id" : 183,
+		"iso2" : "PT",
+		"iso3" : "PRT",
+		"name" : "Portugal",
+		"centroids" : "POINT (-7.963319082909322 39.687592479909085)"
+	},
+	{
+		"id" : 184,
+		"iso2" : "PT",
+		"iso3" : "PRT",
+		"name" : "Portugal",
+		"centroids" : "POINT (-25.49287274977752 37.77689843481494)"
+	},
+	{
+		"id" : 185,
+		"iso2" : "PY",
+		"iso3" : "PRY",
+		"name" : "Paraguay",
+		"centroids" : "POINT (-60.543923799243885 -21.703234638967388)"
+	},
+	{
+		"id" : 186,
+		"iso2" : "GZ",
+		"iso3" : "PSE",
+		"name" : "West Bank and Gaza",
+		"centroids" : "POINT (35.257296877648855 31.942878800316407)"
+	},
+	{
+		"id" : 187,
+		"iso2" : "QA",
+		"iso3" : "QAT",
+		"name" : "Qatar",
+		"centroids" : "POINT (51.1922542591268 25.281108999280946)"
+	},
+	{
+		"id" : 188,
+		"iso2" : "RO",
+		"iso3" : "ROU",
+		"name" : "Romania",
+		"centroids" : "POINT (24.984450250178952 45.83920921303479)"
+	},
+	{
+		"id" : 189,
+		"iso2" : "RU",
+		"iso3" : "RUS",
+		"name" : "Russian Federation",
+		"centroids" : "POINT (99.07168190359704 61.65606927457742)"
+	},
+	{
+		"id" : 190,
+		"iso2" : "RW",
+		"iso3" : "RWA",
+		"name" : "Rwanda",
+		"centroids" : "POINT (29.925435211266063 -2.0000613071835573)"
+	},
+	{
+		"id" : 191,
+		"iso2" : "SA",
+		"iso3" : "SAU",
+		"name" : "Saudi Arabia",
+		"centroids" : "POINT (44.54943246493639 24.125378697768724)"
+	},
+	{
+		"id" : 192,
+		"iso2" : "SD",
+		"iso3" : "SDN",
+		"name" : "Sudan",
+		"centroids" : "POINT (29.96061466353592 16.02890026933204)"
+	},
+	{
+		"id" : 193,
+		"iso2" : "SN",
+		"iso3" : "SEN",
+		"name" : "Senegal",
+		"centroids" : "POINT (-14.464974775765256 14.363710001115692)"
+	},
+	{
+		"id" : 194,
+		"iso2" : "SG",
+		"iso3" : "SGP",
+		"name" : "Singapore",
+		"centroids" : "POINT (103.81135900801189 1.3583278004876433)"
+	},
+	{
+		"id" : 195,
+		"iso2" : "SB",
+		"iso3" : "SLB",
+		"name" : "Solomon Islands",
+		"centroids" : "POINT (160.16029692376412 -9.622825128576778)"
+	},
+	{
+		"id" : 196,
+		"iso2" : "SV",
+		"iso3" : "SLV",
+		"name" : "El Salvador",
+		"centroids" : "POINT (-88.87067533599793 13.738884140790503)"
+	},
+	{
+		"id" : 197,
+		"iso2" : "SM",
+		"iso3" : "SMR",
+		"name" : "San Marino",
+		"centroids" : "POINT (12.463556344050062 43.93815579865122)"
+	},
+	{
+		"id" : 198,
+		"iso2" : "SO",
+		"iso3" : "SOM",
+		"name" : "Somalia",
+		"centroids" : "POINT (46.20304657703798 4.42163964115656)"
+	},
+	{
+		"id" : 199,
+		"iso2" : "YF",
+		"iso3" : "SRB",
+		"name" : "Serbia",
+		"centroids" : "POINT (20.794394253092378 44.23037011888596)"
+	},
+	{
+		"id" : 200,
+		"iso2" : "ST",
+		"iso3" : "STP",
+		"name" : "São Tomé and Príncipe",
+		"centroids" : "POINT (6.6022850518137375 0.2396199364109748)"
+	},
+	{
+		"id" : 201,
+		"iso2" : "SR",
+		"iso3" : "SUR",
+		"name" : "Suriname",
+		"centroids" : "POINT (-55.870391195497234 4.102635867950994)"
+	},
+	{
+		"id" : 202,
+		"iso2" : "SK",
+		"iso3" : "SVK",
+		"name" : "Slovak Republic",
+		"centroids" : "POINT (19.4849789258368 48.70754298981717)"
+	},
+	{
+		"id" : 203,
+		"iso2" : "SI",
+		"iso3" : "SVN",
+		"name" : "Slovenia",
+		"centroids" : "POINT (14.82190640425722 46.11974789145211)"
+	},
+	{
+		"id" : 204,
+		"iso2" : "SE",
+		"iso3" : "SWE",
+		"name" : "Sweden",
+		"centroids" : "POINT (14.375635317216165 60.60070784419173)"
+	},
+	{
+		"id" : 205,
+		"iso2" : "SZ",
+		"iso3" : "SWZ",
+		"name" : "Eswatini",
+		"centroids" : "POINT (31.497769254247714 -26.565790496933857)"
+	},
+	{
+		"id" : 206,
+		"iso2" : "SC",
+		"iso3" : "SYC",
+		"name" : "Seychelles",
+		"centroids" : "POINT (55.46812469899572 -4.679941072722272)"
+	},
+	{
+		"id" : 207,
+		"iso2" : "SY",
+		"iso3" : "SYR",
+		"name" : "Syrian Arab Republic",
+		"centroids" : "POINT (38.51326954765153 35.02701180075405)"
+	},
+	{
+		"id" : 208,
+		"iso2" : "TD",
+		"iso3" : "TCD",
+		"name" : "Chad",
+		"centroids" : "POINT (18.665932985319046 15.371636104722484)"
+	},
+	{
+		"id" : 209,
+		"iso2" : "TG",
+		"iso3" : "TGO",
+		"name" : "Togo",
+		"centroids" : "POINT (0.9772295631938164 8.533073194372491)"
+	},
+	{
+		"id" : 210,
+		"iso2" : "TH",
+		"iso3" : "THA",
+		"name" : "Thailand",
+		"centroids" : "POINT (101.01811485571608 15.132292407768432)"
+	},
+	{
+		"id" : 211,
+		"iso2" : "TJ",
+		"iso3" : "TJK",
+		"name" : "Tajikistan",
+		"centroids" : "POINT (69.29148689530405 38.431260694925186)"
+	},
+	{
+		"id" : 212,
+		"iso2" : "TM",
+		"iso3" : "TKM",
+		"name" : "Turkmenistan",
+		"centroids" : "POINT (59.404137616258026 39.113241352706325)"
+	},
+	{
+		"id" : 213,
+		"iso2" : "TP",
+		"iso3" : "TLS",
+		"name" : "Timor-Leste",
+		"centroids" : "POINT (125.94556396740325 -8.797491084246076)"
+	},
+	{
+		"id" : 214,
+		"iso2" : "TO",
+		"iso3" : "TON",
+		"name" : "Tonga",
+		"centroids" : "POINT (-175.27509152525366 -21.162023977024887)"
+	},
+	{
+		"id" : 215,
+		"iso2" : "TT",
+		"iso3" : "TTO",
+		"name" : "Trinidad and Tobago",
+		"centroids" : "POINT (-61.296822783944265 10.423614170757446)"
+	},
+	{
+		"id" : 216,
+		"iso2" : "TN",
+		"iso3" : "TUN",
+		"name" : "Tunisia",
+		"centroids" : "POINT (9.571333026797788 34.109642997126684)"
+	},
+	{
+		"id" : 217,
+		"iso2" : "TR",
+		"iso3" : "TUR",
+		"name" : "Türkiye",
+		"centroids" : "POINT (35.43313790708879 38.98907702458507)"
+	},
+	{
+		"id" : 218,
+		"iso2" : "TV",
+		"iso3" : "TUV",
+		"name" : "Tuvalu",
+		"centroids" : "POINT (178.67241152187432 -7.471207175170946)"
+	},
+	{
+		"id" : 219,
+		"iso2" : "TZ",
+		"iso3" : "TZA",
+		"name" : "Tanzania",
+		"centroids" : "POINT (34.800129809743 -6.262323697780403)"
+	},
+	{
+		"id" : 220,
+		"iso2" : "UG",
+		"iso3" : "UGA",
+		"name" : "Uganda",
+		"centroids" : "POINT (32.39115497981851 1.2784328617871665)"
+	},
+	{
+		"id" : 221,
+		"iso2" : "UA",
+		"iso3" : "UKR",
+		"name" : "Ukraine",
+		"centroids" : "POINT (31.392136649386885 49.01453171886379)"
+	},
+	{
+		"id" : 222,
+		"iso2" : "UY",
+		"iso3" : "URY",
+		"name" : "Uruguay",
+		"centroids" : "POINT (-56.021798867124005 -32.79841215070013)"
+	},
+	{
+		"id" : 223,
+		"iso2" : "AS",
+		"iso3" : "ASM",
+		"name" : "American Samoa (U.S.)",
+		"centroids" : "POINT (-170.71950109939618 -14.300618273214695)"
+	},
+	{
+		"id" : 224,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-176.48098589987936 0.194575833208205)"
+	},
+	{
+		"id" : 225,
+		"iso2" : "GU",
+		"iso3" : "GUM",
+		"name" : "Guam (U.S.)",
+		"centroids" : "POINT (144.71751705017175 13.362634135157236)"
+	},
+	{
+		"id" : 226,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-176.61867481479084 0.8079767746085054)"
+	},
+	{
+		"id" : 227,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-159.99838436644532 -0.3745938329390128)"
+	},
+	{
+		"id" : 228,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-169.53464219927804 16.728312807390182)"
+	},
+	{
+		"id" : 229,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-162.38254437582225 6.384559487530396)"
+	},
+	{
+		"id" : 230,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-177.3834998512371 28.207597430776843)"
+	},
+	{
+		"id" : 231,
+		"iso2" : "MP",
+		"iso3" : "MNP",
+		"name" : "Northern Mariana Islands (U.S.)",
+		"centroids" : "POINT (145.75323893283053 15.188663753629385)"
+	},
+	{
+		"id" : 232,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (-162.07705666922988 5.889795305508983)"
+	},
+	{
+		"id" : 233,
+		"iso2" : "PR",
+		"iso3" : "PRI",
+		"name" : "Puerto Rico (U.S.)",
+		"centroids" : "POINT (-66.47955294571182 18.22484505095838)"
+	},
+	{
+		"id" : 234,
+		"iso2" : "VI",
+		"iso3" : "VIR",
+		"name" : "United States Virgin Islands (U.S.)",
+		"centroids" : "POINT (-64.76912316959857 17.73347054323102)"
+	},
+	{
+		"id" : 235,
+		"iso2" : "US",
+		"iso3" : "USA",
+		"name" : "United States of America",
+		"centroids" : "POINT (-99.44009534262591 39.40433429389259)"
+	},
+	{
+		"id" : 236,
+		"iso2" : "UM",
+		"iso3" : "UMI",
+		"name" : "U.S. Minor Outlying Islands",
+		"centroids" : "POINT (166.64726418299574 19.29401955355962)"
+	},
+	{
+		"id" : 237,
+		"iso2" : "UZ",
+		"iso3" : "UZB",
+		"name" : "Uzbekistan",
+		"centroids" : "POINT (63.11654843026588 41.77569394322097)"
+	},
+	{
+		"id" : 238,
+		"iso2" : "VA",
+		"iso3" : "VAT",
+		"name" : "Vatican City",
+		"centroids" : "POINT (12.45171681427962 41.90293598520759)"
+	},
+	{
+		"id" : 239,
+		"iso2" : "VC",
+		"iso3" : "VCT",
+		"name" : "Saint Vincent and the Grenadines",
+		"centroids" : "POINT (-61.188923946882596 13.252266429751955)"
+	},
+	{
+		"id" : 240,
+		"iso2" : "VE",
+		"iso3" : "VEN",
+		"name" : "R. B. de Venezuela",
+		"centroids" : "POINT (-66.15537943771085 7.120681190484618)"
+	},
+	{
+		"id" : 241,
+		"iso2" : "VN",
+		"iso3" : "VNM",
+		"name" : "Viet Nam",
+		"centroids" : "POINT (105.80129028341992 10.107906094490716)"
+	},
+	{
+		"id" : 242,
+		"iso2" : "VU",
+		"iso3" : "VUT",
+		"name" : "Vanuatu",
+		"centroids" : "POINT (167.08015650022242 -15.349880175030023)"
+	},
+	{
+		"id" : 243,
+		"iso2" : "WS",
+		"iso3" : "WSM",
+		"name" : "Samoa",
+		"centroids" : "POINT (-172.44777566151754 -13.620707250439239)"
+	},
+	{
+		"id" : 244,
+		"iso2" : "RY",
+		"iso3" : "YEM",
+		"name" : "Republic of Yemen",
+		"centroids" : "POINT (45.22748415467004 15.224995899341309)"
+	},
+	{
+		"id" : 245,
+		"iso2" : "ZA",
+		"iso3" : "ZAF",
+		"name" : "South Africa",
+		"centroids" : "POINT (24.671978583944565 -29.999696012261097)"
+	},
+	{
+		"id" : 246,
+		"iso2" : "ZM",
+		"iso3" : "ZMB",
+		"name" : "Zambia",
+		"centroids" : "POINT (27.854584881587073 -14.59442208401191)"
+	},
+	{
+		"id" : 247,
+		"iso2" : "ZW",
+		"iso3" : "ZWE",
+		"name" : "Zimbabwe",
+		"centroids" : "POINT (29.872156320058195 -18.999981607665006)"
+	},
+	{
+		"id" : 248,
+		"iso2" : "AO",
+		"iso3" : "AGO",
+		"name" : "Angola",
+		"centroids" : "POINT (17.579088208354165 -12.339007745311164)"
+	},
+	{
+		"id" : 249,
+		"iso2" : "MD",
+		"iso3" : "MDA",
+		"name" : "Moldova",
+		"centroids" : "POINT (28.46418556321322 47.202799920679865)"
+	},
+	{
+		"id" : 250,
+		"iso2" : "MZ",
+		"iso3" : "MOZ",
+		"name" : "Mozambique",
+		"centroids" : "POINT (38.18189545760936 -14.279401862306031)"
+	},
+	{
+		"id" : 251,
+		"iso2" : "KH",
+		"iso3" : "KHM",
+		"name" : "Cambodia",
+		"centroids" : "POINT (104.9188472171254 12.712910489127808)"
+	},
+	{
+		"id" : 252,
+		"iso2" : "SL",
+		"iso3" : "SLE",
+		"name" : "Sierra Leone",
+		"centroids" : "POINT (-11.781469097520812 8.56952932871559)"
+	},
+	{
+		"id" : 253,
+		"iso2" : "LB",
+		"iso3" : "LBN",
+		"name" : "Lebanon",
+		"centroids" : "POINT (35.89429261571172 33.92139749369943)"
+	},
+	{
+		"id" : 254,
+		"iso2" : "CO",
+		"iso3" : "COL",
+		"name" : "Colombia",
+		"centroids" : "POINT (-73.07652887580696 3.9067835002583706)"
+	},
+	{
+		"id" : 255,
+		"iso2" : "GH",
+		"iso3" : "GHA",
+		"name" : "Ghana",
+		"centroids" : "POINT (-1.2056405426768606 7.964593582527868)"
+	},
+	{
+		"id" : 256,
+		"iso2" : "ET",
+		"iso3" : "ETH",
+		"name" : "Ethiopia",
+		"centroids" : "POINT (39.63233195685439 8.632864480411513)"
+	},
+	{
+		"id" : 257,
+		"iso2" : "HT",
+		"iso3" : "HTI",
+		"name" : "Haiti",
+		"centroids" : "POINT (-72.34313098280859 18.401963794893277)"
+	},
+	{
+		"id" : 258,
+		"iso2" : "IQ",
+		"iso3" : "IRQ",
+		"name" : "Iraq",
+		"centroids" : "POINT (43.764078671593495 33.05133399826548)"
+	},
+	{
+		"id" : 259,
+		"iso2" : "NE",
+		"iso3" : "NER",
+		"name" : "Niger",
+		"centroids" : "POINT (9.405872601939052 17.418663446460926)"
+	},
+	{
+		"id" : 260,
+		"iso2" : "DJ",
+		"iso3" : "DJI",
+		"name" : "Djibouti",
+		"centroids" : "POINT (42.18273442445417 11.56171328154278)"
+	},
+	{
+		"id" : 261,
+		"iso2" : "KE",
+		"iso3" : "KEN",
+		"name" : "Kenya",
+		"centroids" : "POINT (37.857859227521374 0.5364617146364594)"
+	},
+	{
+		"id" : 262,
+		"iso2" : "SS",
+		"iso3" : "SSD",
+		"name" : "South Sudan",
+		"centroids" : "POINT (30.27800422741319 7.314572555878783)"
+	},
+	{
+		"id" : 263,
+		"iso2" : "MX",
+		"iso3" : "MEX",
+		"name" : "Mexico",
+		"centroids" : "POINT (-102.52606526230198 23.942571828227358)"
+	}
+]}
